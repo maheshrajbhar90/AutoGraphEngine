@@ -12,3 +12,9 @@ python3 render_video_combine.py
 
 source voiceclone/bin/activate
 python clone_voice.py
+python clone_voice_chatterbox.py
+
+
+ffmpeg -i reference/my_voice.m4a -ar 22050 -ac 1 reference/my_voice.wav
+
+voiceclone/references/my_voice.m4a

@@ -1,18 +1,35 @@
-# Environment variables and secrets
-.env
-.env.*
-!.env.example
-
-# Python
-__pycache__/
-*.py[cod]
+# Python virtual environments
 venv/
 .venv/
+env/
+chatterbox_env/
+voiceclone/
 
-# IDE
-.vscode/
-.idea/
+# Python cache
+__pycache__/
+*.py[cod]
 
-# OS
-.DS_Store
+# Model files
+*.pth
+*.pt
+*.onnx
+*.safetensors
+*.ckpt
+
+# Audio and video outputs
+*.wav
+*.m4a
+*.mp3
+*.mp4
+
+# Environment variables
 .env
+.env.*
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# macOS
+.DS_Store
