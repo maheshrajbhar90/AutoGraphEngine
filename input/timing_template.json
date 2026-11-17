@@ -1,0 +1,182 @@
+{
+  "_help": "Copy to input/timing.json and keep only what you change. duration = total seconds of a card (overrides hold). hold = seconds the finished card stays. intro_pause = extra wait before the first animation. gap = pause between steps. pauses = {\"3\": 6} adds 6 s after step 3 (see _beats).",
+  "default": {
+    "gap": 0.25,
+    "hold": 4.0,
+    "intro_pause": 0.0
+  },
+  "scenes": {
+    "1": {
+      "duration": null,
+      "hold": 4.0,
+      "intro_pause": 0.0,
+      "gap": 0.25,
+      "pauses": {},
+      "_beats_natural_end_s": 16.05,
+      "_beats": [
+        "1: Market bias headline  (0.6s)",
+        "2: Bias word typed  (1.25s)",
+        "3: Step 3  (1.2s)",
+        "4: Step 4  (0.6s)",
+        "5: Step 5  (0.6s)",
+        "6: Health score counts up  (0.6s)",
+        "7: Step 7  (2.55s)",
+        "8: Step 8  (0.9s)",
+        "9: Step 9  (0.9s)",
+        "10: Step 10  (0.9s)",
+        "11: Dominant scenario highlighted  (0.6s)",
+        "12: Hook line  (0.6s)"
+      ]
+    },
+    "2": {
+      "duration": null,
+      "hold": 4.0,
+      "intro_pause": 0.0,
+      "gap": 0.25,
+      "pauses": {},
+      "_beats_natural_end_s": 12.6,
+      "_beats": [
+        "1: TREND gauge  (1.5s)",
+        "2: BREADTH gauge  (1.5s)",
+        "3: MOMENTUM gauge  (1.5s)",
+        "4: LIQUIDITY gauge  (1.5s)",
+        "5: RISK gauge  (1.5s)",
+        "6: MACRO gauge  (1.5s)",
+        "7: Health summary  (0.6s)"
+      ]
+    },
+    "3": {
+      "duration": null,
+      "hold": 4.0,
+      "intro_pause": 0.0,
+      "gap": 0.25,
+      "pauses": {},
+      "_beats_natural_end_s": 29.15,
+      "_beats": [
+        "1: Step 1  (1.1s)",
+        "2: Step 2  (1.1s)",
+        "3: Step 3  (1.1s)",
+        "4: Step 4  (1.1s)",
+        "5: Step 5  (1.1s)",
+        "6: Step 6  (1.1s)",
+        "7: Step 7  (1.1s)",
+        "8: Step 8  (1.1s)",
+        "9: Step 9  (1.1s)",
+        "10: Step 10  (1.1s)",
+        "11: Step 11  (1.1s)",
+        "12: Step 12  (1.1s)",
+        "13: Step 13  (1.1s)",
+        "14: Step 14  (1.1s)",
+        "15: Step 15  (0.8s)",
+        "16: Leader and laggard panel  (0.6s)",
+        "17: Step 17  (0.6s)",
+        "18: Step 18  (1.4s)",
+        "19: Step 19  (1.4s)",
+        "20: Step 20  (1.4s)"
+      ]
+    },
+    "4": {
+      "duration": null,
+      "hold": 4.0,
+      "intro_pause": 0.0,
+      "gap": 0.25,
+      "pauses": {},
+      "_beats_natural_end_s": 17.15,
+      "_beats": [
+        "1: FII flow  (2.7s)",
+        "2: FII flow (part 2)  (1.5s)",
+        "3: FII flow (part 3)  (1.5s)",
+        "4: DII flow  (2.7s)",
+        "5: DII flow (part 2)  (1.5s)",
+        "6: DII flow (part 3)  (1.5s)",
+        "7: FII vs DII contrast  (0.6s)",
+        "8: Accumulation vs distribution  (1.8s)"
+      ]
+    },
+    "5": {
+      "duration": null,
+      "hold": 4.0,
+      "intro_pause": 0.0,
+      "gap": 0.25,
+      "pauses": {},
+      "_beats_natural_end_s": 19.65,
+      "_beats": [
+        "1: Step 1  (1.3s)",
+        "2: Step 2  (1.3s)",
+        "3: Step 3  (1.3s)",
+        "4: Step 4  (1.3s)",
+        "5: Step 5  (1.3s)",
+        "6: Step 6  (1.3s)",
+        "7: Step 7  (1.3s)",
+        "8: Step 8  (1.3s)",
+        "9: Step 9  (1.3s)",
+        "10: Step 10  (1.3s)",
+        "11: Step 11  (1.3s)",
+        "12: Avoid list  (0.6s)"
+      ]
+    },
+    "6": {
+      "duration": null,
+      "hold": 4.0,
+      "intro_pause": 0.0,
+      "gap": 0.25,
+      "pauses": {},
+      "_beats_natural_end_s": 18.55,
+      "_beats": [
+        "1: TECHM  (1.45s)",
+        "2: KOTAKBANK  (1.45s)",
+        "3: JSWSTEEL  (1.45s)",
+        "4: ETERNAL  (1.45s)",
+        "5: ADANIPORTS  (1.45s)",
+        "6: SUNPHARMA  (1.45s)",
+        "7: APOLLOHOSP  (1.45s)",
+        "8: TITAN  (1.45s)",
+        "9: GRASIM  (1.45s)",
+        "10: BAJAJ-AUTO  (1.45s)"
+      ]
+    },
+    "7": {
+      "duration": null,
+      "hold": 4.0,
+      "intro_pause": 0.0,
+      "gap": 0.25,
+      "pauses": {},
+      "_beats_natural_end_s": 15.65,
+      "_beats": [
+        "1: CURRENT LEADERS  (0.6s)",
+        "2: MEDIA  (1.05s)",
+        "3: PHARMA  (1.05s)",
+        "4: SERV SECTOR  (1.05s)",
+        "5: EMERGING LEADERS  (0.6s)",
+        "6: IT  (1.05s)",
+        "7: WEAKENING  (0.6s)",
+        "8: AUTO  (1.05s)",
+        "9: FMCG  (1.05s)",
+        "10: ENERGY  (1.05s)",
+        "11: METAL  (1.05s)",
+        "12: Sector takeaway  (0.7s)"
+      ]
+    },
+    "8": {
+      "duration": null,
+      "hold": 4.0,
+      "intro_pause": 0.0,
+      "gap": 0.25,
+      "pauses": {},
+      "_beats_natural_end_s": 16.3,
+      "_beats": [
+        "1: VOLATILITY  (0.6s)",
+        "2: VOLATILITY value  (2.2s)",
+        "3: VOLATILITY zones  (1.65s)",
+        "4: VOLATILITY reading  (0.6s)",
+        "5: Step 5  (0.6s)",
+        "6: OPTIONS SENTIMENT  (0.6s)",
+        "7: OPTIONS SENTIMENT value  (2.2s)",
+        "8: OPTIONS SENTIMENT zones  (1.65s)",
+        "9: OPTIONS SENTIMENT reading  (0.6s)",
+        "10: Step 10  (0.6s)",
+        "11: Volatility and sentiment summary  (0.6s)"
+      ]
+    }
+  }
+}

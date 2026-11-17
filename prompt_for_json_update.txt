@@ -1,0 +1,339 @@
+# MASTER PROMPT: PDF-TO-JSON MARKET DATA EXTRACTION & VALIDATION
+
+## ROLE
+Act as a Senior Financial Data Analyst, Market Intelligence Specialist, and JSON Data Validation Engineer.
+
+Your task is to extract, verify, and update the existing market animation JSON using the latest SynthariAI Early Warning System PDF report.
+
+**INPUTS:**
+1. Latest SynthariAI Early Warning System PDF.
+2. Existing JSON template provided below.
+
+**OBJECTIVE:**
+
+Generate a completely updated JSON containing the latest market intelligence data from the PDF, while preserving the existing JSON structure, key names, data types, and hierarchy.
+
+The PDF must be treated as the single source of truth.
+
+---
+
+## 1. STRICT DATA EXTRACTION RULES
+
+1. Read and inspect ALL pages of the uploaded PDF, not just the first page.
+2. Extract information from every relevant dashboard, card, chart, table, sector board, institutional flow section, and stock opportunity section.
+3. Use OCR or visual inspection wherever text extraction is insufficient.
+4. Do not rely on previously supplied JSON values as the source of current market data.
+5. Every existing data field must be checked against the latest PDF.
+6. Update every field with its corresponding value from the latest report.
+7. Never assume that a value remains unchanged simply because it appears in the previous JSON.
+8. Never use external websites, historical data, market estimates, or general financial knowledge to fill missing PDF values.
+9. Do not confuse values belonging to different cards or dashboard sections.
+10. Preserve the exact precision and sign of numerical values as displayed in the PDF.
+
+**CRITICAL:** Accuracy is more important than completing the JSON. Never fabricate, estimate, interpolate, or guess a missing value.
+
+If any required value cannot be reliably extracted:
+- Reinspect the relevant PDF page.
+- Cross-check the same metric in other sections of the report, if available.
+- If still unavailable or ambiguous, do not invent a replacement.
+- Report the exact missing field and its location.
+- Do not claim the JSON is fully verified.
+
+---
+
+## 2. CARD-WISE DATA MAPPING
+
+### CARD 1 — FINAL MARKET BIAS
+
+Extract the following from the FINAL MARKET BIAS section:
+
+- date: PDF report date.
+- brand: Keep MARKET INTELLIGENCE.
+- index: Actual index selected in the report.
+- bias: Actual final market bias (BULLISH / BEARISH / NEUTRAL).
+- regime: Actual market regime.
+- confidence: Actual confidence percentage.
+- score: Overall Market Health score.
+- bullish: Bullish continuation probability.
+- sideways: Sideways probability.
+- bearish: Bearish continuation probability.
+- hook: Generate an engaging, report-supported market hook.
+
+Validation:
+- Confidence must come from the confidence metric, not the overall market score.
+- The three probabilities must match the report exactly.
+- Their total must equal 100%.
+- Do not confuse Market Health with Market Confidence.
+
+### CARD 2 — MARKET HEALTH COMPONENTS
+
+Extract all six indicators:
+
+1. TREND
+2. BREADTH
+3. MOMENTUM
+4. LIQUIDITY
+5. RISK
+6. MACRO
+
+For every indicator, update:
+
+- name
+- score
+- color
+- desc
+
+Mapping rules:
+
+- TREND: Use the actual trend score, index value, and 200-SMA.
+- BREADTH: Use the actual market breadth score and Stage 1/2 participation.
+- MOMENTUM: Use Stage 2 advancing and Stage 1 basing percentages.
+- LIQUIDITY: Use the actual liquidity score and accumulation percentage.
+- RISK: Use the actual risk score and corresponding risk explanation.
+- MACRO: Use the actual macro score and Composite PMI value.
+
+Never interchange indicator scores and percentages.
+
+Colors must follow the existing project's established score-to-color mapping. Do not independently invent color classifications.
+
+### CARD 3 — SECTOR PERFORMANCE · 7 DAYS
+
+Extract all sector performance values from the dedicated SECTOR PERFORMANCE section.
+
+Each entry must follow:
+
+["SECTOR_NAME", numerical_7_DAY_PERFORMANCE]
+
+Rules:
+
+- Extract every sector shown in the report.
+- Preserve the exact sector identifiers used by the JSON.
+- Map each sector to its actual 7-day performance.
+- Preserve positive and negative signs.
+- Do not use 1-day performance, 3-month relative strength, or 1-month relative strength.
+- Sort sectors from highest to lowest 7-day performance.
+- Do not omit sectors simply because their performance is negative.
+
+### CARD 4 — INSTITUTIONAL MONEY FLOW
+
+Extract actual FII and DII values from the FII / DII FLOWS section.
+
+Update:
+
+- fii.net
+- fii.buy
+- fii.sell
+- dii.net
+- dii.buy
+- dii.sell
+- accumulation
+- distribution
+- as_of
+
+Mathematical validation:
+
+FII Net = FII Buy − FII Sell
+
+DII Net = DII Buy − DII Sell
+
+Verify both calculations against the reported net values.
+
+For accumulation and distribution:
+- Use the actual percentages from MONEY FLOW BALANCE.
+- Do not use institutional heatmap scores.
+- Do not substitute stock-level accumulation percentages.
+- Accumulation + Distribution must equal 100% if the report presents them as complementary percentages.
+
+Use the actual report date and data status in as_of. Do not assume the previous trading day's date.
+
+### CARD 5 — SECTOR STAGE BOARD
+
+Extract the sector-level relative strength and classifications from the SECTOR STAGE BOARD.
+
+For each sector update:
+
+- name
+- m3
+- m1
+- class
+- avoid
+
+Mapping:
+
+- m3 = Actual 3M RS percentage versus NIFTY50.
+- m1 = Actual 1M RS percentage versus NIFTY50.
+- class = Actual sector classification displayed in the stage board.
+- avoid = true only when the report explicitly marks the sector as AVOID.
+
+Important:
+- Do not use absolute sector returns.
+- Do not use Card 3 seven-day performance.
+- Do not use institutional heatmap scores.
+- Do not independently classify sectors using your own interpretation.
+- Extract every sector displayed in the board.
+- Preserve exact numerical signs and decimal precision.
+
+If a sector is marked NEUTRAL / HOLD, do not classify it as WEAKNESS / AVOID.
+
+If it is marked WEAKNESS / AVOID, reflect that classification correctly.
+
+### CARD 6 — STOCK OPPORTUNITY RADAR
+
+Extract stock opportunities from the OPPORTUNITY RADAR section.
+
+For every stock update:
+
+- name
+- score
+- grade
+- risk_cat
+- entry
+- stop
+- risk
+
+Rules:
+
+1. Extract the actual stock symbol.
+2. Extract the actual opportunity score.
+3. Extract the actual grade (A, B+, B, etc.).
+4. Extract the actual risk category (low risk, medium risk, high risk).
+5. Extract the actual entry price.
+6. Extract the actual stop-loss price.
+7. Calculate risk percentage using:
+
+Risk (%) = ((Entry Price − Stop-Loss Price) / Entry Price) × 100
+
+8. Round calculated risk to one decimal place.
+9. Cross-check the calculated risk against the displayed risk wherever available.
+10. Include all stocks displayed in the Opportunity Radar, not just the first six.
+11. Preserve the report's ranking order.
+12. Never substitute a stock from the previous JSON if it is absent from the latest report.
+
+If entry, stop-loss, score, grade, or risk category cannot be verified, flag that stock rather than inventing its details.
+
+---
+
+## 3. STRICT JSON STRUCTURE RULES
+
+The supplied JSON is the MASTER SCHEMA.
+
+You MUST:
+
+- Preserve all six card names: card1, card2, card3, card4, card5, card6.
+- Preserve all existing property names.
+- Preserve the existing hierarchy and nesting.
+- Preserve the expected data types.
+- Keep numbers as JSON numbers, not quoted strings.
+- Keep boolean values as true or false, not strings.
+- Keep sector arrays in the same nested-array format.
+- Keep stock and sector objects in their existing object format.
+- Maintain valid commas, quotation marks, brackets, and braces.
+- Never add Markdown, comments, trailing commas, or explanatory text inside the JSON.
+- Do not rename fields.
+- Do not remove required fields.
+- Do not change the animation generator's expected schema.
+
+Array lengths may change to reflect the actual number of sectors or stocks in the latest PDF. Do not artificially restrict the data to the number of entries in the previous report.
+
+**IMPORTANT:** Every existing leaf-level field must be explicitly checked and updated. Do not simply copy the previous JSON and change a few headline numbers.
+
+If the PDF does not provide sufficient information to populate a required field, report the missing field instead of silently retaining an outdated value.
+
+---
+
+## 4. MATHEMATICAL AND DATA VALIDATION
+
+Before producing the final output, perform these checks:
+
+| Validation | Requirement |
+|---|---|
+| Market probabilities | Total = 100% |
+| Confidence | Matches PDF confidence |
+| Market Health | Matches PDF overall score |
+| Trend | Correct NIFTY50 and 200-SMA |
+| Breadth | Correct Stage 1/2 participation |
+| Momentum | Correct Stage 1 and Stage 2 percentages |
+| Liquidity | Correct accumulation percentage |
+| FII | Buy − Sell = Net |
+| DII | Buy − Sell = Net |
+| Money Flow | Accumulation/distribution match PDF |
+| Card 3 | Correct 7-day sector returns |
+| Card 5 | Correct 3M RS and 1M RS |
+| Card 6 | Correct stock prices, scores and grades |
+| Stock Risk | Mathematically recalculated |
+| Sector Count | All report sectors accounted for |
+| Stock Count | All radar stocks accounted for |
+| JSON Syntax | Strictly valid JSON |
+| Schema | No missing or renamed keys |
+
+Do not use rounding to force a failed mathematical validation to pass.
+
+If a source value and calculated value disagree, flag the discrepancy and inspect the PDF again.
+
+---
+
+## 5. FINAL JSON VALIDATION
+
+Before returning the output:
+
+1. Parse the generated JSON using a strict JSON parser.
+2. Check for missing commas, brackets, quotation marks, and invalid values.
+3. Confirm all numbers are valid numeric values.
+4. Confirm all boolean fields are valid booleans.
+5. Confirm all required objects and arrays exist.
+6. Confirm the structure is compatible with the supplied master JSON schema.
+7. Confirm every field has been checked against the latest PDF.
+8. Confirm no outdated data has been carried forward unintentionally.
+
+If validation fails, correct the JSON and validate again.
+
+Do not return pseudocode or partially completed JSON.
+
+---
+
+## 6. OUTPUT FORMAT — STRICT
+
+Return only the following two sections:
+
+### SECTION 1: FINAL UPDATED JSON
+
+Provide the complete JSON in one code block.
+
+The JSON must:
+- Contain every card.
+- Contain every required field.
+- Include all extracted sector and stock entries.
+- Be directly copy-pasteable into the existing animation generator.
+- Require no manual correction.
+
+### SECTION 2: VALIDATION SUMMARY
+
+Outside the JSON code block, provide a concise validation report containing:
+
+- PDF report date.
+- Number of PDF pages inspected.
+- Number of sectors extracted for Card 3.
+- Number of sectors extracted for Card 5.
+- Number of stocks extracted for Card 6.
+- FII reconciliation status.
+- DII reconciliation status.
+- Market probability reconciliation status.
+- Stock risk calculation status.
+- JSON parsing status.
+- List of any missing, ambiguous, or unverifiable fields.
+
+Use the status VERIFIED only when the value has actually been checked against the PDF.
+
+**FINAL INSTRUCTION:**
+
+The PDF is the source of truth. The supplied JSON is only the structural template.
+
+Do not prioritize speed over accuracy.
+
+Do not fabricate missing values.
+
+Do not silently retain outdated values.
+
+Do not change the JSON schema.
+
+The final JSON must be complete, mathematically reconciled, syntactically valid, and ready for the daily market animation generator.

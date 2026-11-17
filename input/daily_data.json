@@ -1,0 +1,360 @@
+
+{
+  "date": "17 NOV 2026",
+  "brand": "MARKET INTELLIGENCE",
+  "card1": {
+    "index": "NIFTY 50",
+    "bias": "NEUTRAL",
+    "regime": "RECOVERY",
+    "confidence": 45.2,
+    "score": 59,
+    "bullish": 50.0,
+    "sideways": 15.0,
+    "bearish": 35.0,
+    "hook": "NIFTY50 is trading above its 200-SMA at 25379.60, indicating a positive long-term trend. FIIs have invested ₹4,865 crore net into the market. Institutional accumulation is visible across 76% of the scanned universe, but only 30% of stocks are advancing and market breadth remains weak at 40%. Despite institutional buying, the system maintains a NEUTRAL bias with 45.2% confidence. Elevated US 10-year yields at 5.12% and bearish-leaning options sentiment demand selective stock picking rather than broad index exposure. Currently, three A-rated stocks qualify."
+  },
+  "card2": {
+    "scores": [
+      {
+        "name": "TREND",
+        "score": 63.0,
+        "color": "green",
+        "desc": "NIFTY50 25379.60 trading above 200-SMA 23992.87"
+      },
+      {
+        "name": "BREADTH",
+        "score": 40.0,
+        "color": "red",
+        "desc": "40% of scanned universe in Stage 1/2 (basing/advancing)"
+      },
+      {
+        "name": "MOMENTUM",
+        "score": 45.0,
+        "color": "amber",
+        "desc": "30% of universe in Stage 2 (advancing), 10% in Stage 1 (basing)"
+      },
+      {
+        "name": "LIQUIDITY",
+        "score": 56.0,
+        "color": "green",
+        "desc": "76% show accumulation signals (rising OBV + positive CMF)"
+      },
+      {
+        "name": "RISK",
+        "score": 20.0,
+        "color": "red",
+        "desc": "US 10Y yield elevated at 5.12% — global risk-off pressure"
+      },
+      {
+        "name": "MACRO",
+        "score": 52.0,
+        "color": "amber",
+        "desc": "GDP growth supportive (indicator score 88.0/100; weighted impact +5.7 points)"
+      }
+    ]
+  },
+  "card3": {
+    "title": "SECTOR PERFORMANCE · TODAY & 7 DAYS",
+    "sectors": [
+      ["PSU", 2.3, 6.8],
+      ["REALTY", 2.1, 3.4],
+      ["BANK", 1.1, 4.2],
+      ["MEDIA", 0.8, 4.1],
+      ["FIN_SERVICE", 0.7, 3.0],
+      ["AUTO", 0.6, -0.7],
+      ["METAL", 0.3, -1.4],
+      ["SERV_SECTOR", 0.3, 1.1],
+      ["INFRA", 0.1, 0.9],
+      ["PHARMA", 0.0, -2.8],
+      ["COMMODITIES", 0.0, -1.1],
+      ["IT", 0.0, -1.6],
+      ["FMCG", -0.1, 2.2],
+      ["ENERGY", -0.3, -0.1]
+    ]
+  },
+  "card4": {
+    "fii": {
+      "net": 4865,
+      "buy": 15637,
+      "sell": 10772
+    },
+    "dii": {
+      "net": -3519,
+      "buy": 11752,
+      "sell": 15271
+    },
+    "accumulation": 76,
+    "distribution": 4,
+    "as_of": "16-Nov-2026"
+  },
+  "card5": {
+    "sectors": [
+      {
+        "name": "PSU",
+        "m3": 4.5,
+        "m1": 7.2,
+        "class": "NEUTRAL",
+        "avoid": false
+      },
+      {
+        "name": "FIN_SERVICE",
+        "m3": 3.3,
+        "m1": 0.8,
+        "class": "NEUTRAL",
+        "avoid": false
+      },
+      {
+        "name": "BANK",
+        "m3": 3.9,
+        "m1": 1.0,
+        "class": "NEUTRAL",
+        "avoid": false
+      },
+      {
+        "name": "PHARMA",
+        "m3": 2.0,
+        "m1": -1.4,
+        "class": "NEUTRAL",
+        "avoid": false
+      },
+      {
+        "name": "REALTY",
+        "m3": -0.6,
+        "m1": 1.4,
+        "class": "NEUTRAL",
+        "avoid": false
+      },
+      {
+        "name": "INFRA",
+        "m3": -2.7,
+        "m1": -0.4,
+        "class": "NEUTRAL",
+        "avoid": false
+      },
+      {
+        "name": "METAL",
+        "m3": -7.3,
+        "m1": -5.8,
+        "class": "WEAKNESS",
+        "avoid": true
+      },
+      {
+        "name": "FMCG",
+        "m3": -5.9,
+        "m1": -3.6,
+        "class": "WEAKNESS",
+        "avoid": true
+      },
+      {
+        "name": "AUTO",
+        "m3": -8.9,
+        "m1": -1.8,
+        "class": "WEAKNESS",
+        "avoid": true
+      },
+      {
+        "name": "ENERGY",
+        "m3": -7.5,
+        "m1": -7.1,
+        "class": "WEAKNESS",
+        "avoid": true
+      },
+      {
+        "name": "IT",
+        "m3": -2.2,
+        "m1": -5.8,
+        "class": "NEUTRAL",
+        "avoid": false
+      }
+    ]
+  },
+  "card6": {
+    "stocks": [
+      {
+        "name": "DIVISLAB",
+        "score": 78.0,
+        "grade": "A",
+        "risk_cat": "low risk",
+        "entry": 11109.0,
+        "stop": 10433.0,
+        "risk": 6.1
+      },
+      {
+        "name": "DLF",
+        "score": 78.0,
+        "grade": "A",
+        "risk_cat": "low risk",
+        "entry": 767.0,
+        "stop": 739.0,
+        "risk": 3.7
+      },
+      {
+        "name": "ICICIBANK",
+        "score": 75.0,
+        "grade": "A",
+        "risk_cat": "low risk",
+        "entry": 1599.0,
+        "stop": 1553.0,
+        "risk": 2.9
+      },
+      {
+        "name": "KOTAKBANK",
+        "score": 73.0,
+        "grade": "B+",
+        "risk_cat": "medium risk",
+        "entry": 495.0,
+        "stop": 480.0,
+        "risk": 3.0
+      },
+      {
+        "name": "ETERNAL",
+        "score": 71.0,
+        "grade": "B+",
+        "risk_cat": "medium risk",
+        "entry": 373.0,
+        "stop": 359.0,
+        "risk": 3.8
+      },
+      {
+        "name": "INDHOTEL",
+        "score": 71.0,
+        "grade": "B+",
+        "risk_cat": "medium risk",
+        "entry": 902.0,
+        "stop": 870.0,
+        "risk": 3.5
+      },
+      {
+        "name": "PNB",
+        "score": 70.0,
+        "grade": "B+",
+        "risk_cat": "medium risk",
+        "entry": 150.0,
+        "stop": 144.0,
+        "risk": 4.0
+      },
+      {
+        "name": "TECHM",
+        "score": 69.0,
+        "grade": "B+",
+        "risk_cat": "medium risk",
+        "entry": 1757.0,
+        "stop": 1689.0,
+        "risk": 3.9
+      },
+      {
+        "name": "ADANIPORTS",
+        "score": 69.0,
+        "grade": "B+",
+        "risk_cat": "medium risk",
+        "entry": 1914.0,
+        "stop": 1840.0,
+        "risk": 3.9
+      },
+      {
+        "name": "UNIONBANK",
+        "score": 68.0,
+        "grade": "B+",
+        "risk_cat": "medium risk",
+        "entry": 209.0,
+        "stop": 201.0,
+        "risk": 3.8
+      },
+      {
+        "name": "LODHA",
+        "score": 68.0,
+        "grade": "B+",
+        "risk_cat": "medium risk",
+        "entry": 1224.0,
+        "stop": 1156.0,
+        "risk": 5.6
+      },
+      {
+        "name": "DRREDDY",
+        "score": 67.0,
+        "grade": "B+",
+        "risk_cat": "medium risk",
+        "entry": 1377.0,
+        "stop": 1339.0,
+        "risk": 2.8
+      }
+    ]
+  },
+  "card7": {
+    "as_of": "17-Nov-2026",
+    "groups": [
+      {
+        "label": "CURRENT LEADERS",
+        "tone": "green",
+        "sectors": [
+          {
+            "name": "PSU",
+            "m1": 7.2,
+            "m3": 4.5
+          },
+          {
+            "name": "BANK",
+            "m1": 1.0,
+            "m3": 3.9
+          },
+          {
+            "name": "FIN_SERVICE",
+            "m1": 0.8,
+            "m3": 3.3
+          }
+        ]
+      },
+      {
+        "label": "EMERGING LEADERS",
+        "tone": "blue",
+        "sectors": [
+          {
+            "name": "REALTY",
+            "m1": 1.4,
+            "m3": -0.6
+          }
+        ]
+      },
+      {
+        "label": "WEAKENING",
+        "tone": "red",
+        "sectors": [
+          {
+            "name": "PHARMA",
+            "m1": -1.4,
+            "m3": 2.0
+          },
+          {
+            "name": "IT",
+            "m1": -5.8,
+            "m3": -2.2
+          },
+          {
+            "name": "FMCG",
+            "m1": -3.6,
+            "m3": -5.9
+          },
+          {
+            "name": "METAL",
+            "m1": -5.8,
+            "m3": -7.3
+          }
+        ]
+      }
+    ]
+  },
+  "card8": {
+    "vix": {
+      "name": "INDIA VIX",
+      "value": 15.5,
+      "change_pct": -1.2,
+      "source": "Verified just now · yfinance (daily bar)"
+    },
+    "pcr": {
+      "name": "PUT-CALL RATIO",
+      "value": 1.45,
+      "label": "bearish-leaning",
+      "basis": "NIFTY PCR (OI) · spot 25387 · 17-Nov-2026 expiry"
+    }
+  }
+}

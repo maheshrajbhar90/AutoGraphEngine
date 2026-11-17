@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" overflow="hidden" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-label="08_volatility_options.svg">
+<defs><pattern id="gridPat" width="64" height="64" patternUnits="userSpaceOnUse"><path d="M64 0H0V64" fill="none" stroke="#141a23" stroke-width="1"/></pattern></defs>
+<style>text{dominant-baseline:auto}.gauge-track{fill:none;stroke:#202a36;stroke-width:16;stroke-linecap:round}.gauge-progress{fill:none;stroke-width:16;stroke-linecap:round}.bar-track{fill:#202a36}</style>
+<g class="hdr"><rect width="1920" height="1080" fill="#303030" /><rect x="88" y="46" width="1744" height="988" rx="30" fill="#080a0d" /><rect x="88" y="46" width="1744" height="988" rx="30" fill="url(#gridPat)" opacity=".55" /><g class="heading-slide" data-enter="0.05"><text x="176.0" y="130.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="24.0" font-weight="750" fill="#438cff" text-anchor="start" class="">VOLATILITY &amp; OPTIONS</text></g><g class="heading-slide" data-enter="0.18"><text x="176.0" y="188.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="48.0" font-weight="750" fill="#eef2f8" text-anchor="start" class="">HOW NERVOUS IS THE MARKET?</text></g><path d="M176 204 H300" fill="none" stroke="#438cff" stroke-width="4" stroke-linecap="round" opacity="1" pathLength="1" stroke-dasharray="1" data-draw="1" data-delay="0.5" data-duration="0.7" /><text x="1744.0" y="132.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="22.0" font-weight="500" fill="#8993a3" text-anchor="end" class="">MARKET INTELLIGENCE · 17 NOV 2026</text><text x="176.0" y="990.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17.0" font-weight="500" fill="#48515e" text-anchor="start" class="">Educational &amp; research purposes only. Not investment advice.</text></g><g class="anim-panel" data-enter="0.9" data-cue="VOLATILITY"><rect x="120.0" y="222.0" width="820.0" height="640.0" rx="20" fill="#11151d" stroke="#242b36" stroke-width="2" class="" /><text x="160.0" y="284.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="26.0" font-weight="750" fill="#8993a3" text-anchor="start" class="">VOLATILITY</text><text x="900.0" y="284.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20.0" font-weight="600" fill="#48515e" text-anchor="end" class="">INDIA VIX</text></g><g class="slide-item" data-enter="1.85" data-cue="VOLATILITY value"><text x="160.0" y="427.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="118.0" font-weight="800" fill="#eef2f8" text-anchor="start" data-counter="1" data-target="15.5" data-prefix="" data-suffix="" data-decimals="1" data-delay="1.9" data-duration="1.6" data-pulse="1">15.5</text><path d="M696.0 363 L732.0 363 L714.0 395 Z" fill="#10bd8b" /><text x="900.0" y="394.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="50.0" font-weight="800" fill="#10bd8b" text-anchor="end" data-counter="1" data-target="1.2" data-prefix="-" data-suffix="%" data-decimals="1" data-delay="1.9" data-duration="1.6">-1.2%</text></g><g class="fade-item" data-enter="4.4" data-cue="VOLATILITY zones"><clipPath id="zc120"><rect x="160.0" y="522" width="740.0" height="22" rx="11" /></clipPath><g clip-path="url(#zc120)"><rect x="160.0" y="522" width="137.04" height="22" fill="#10bd8b" opacity=".85" /></g><text x="228.52" y="600.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17.0" font-weight="700" fill="#10bd8b" text-anchor="middle" class="">CALM</text><rect x="297.04" y="522" width="191.85" height="22" fill="#438cff" opacity=".85" /><text x="392.96" y="600.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17.0" font-weight="700" fill="#438cff" text-anchor="middle" class="">NORMAL</text><rect x="488.89" y="522" width="137.04" height="22" fill="#f5a623" opacity=".85" /><text x="557.41" y="600.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17.0" font-weight="700" fill="#f5a623" text-anchor="middle" class="">ELEVATED</text><rect x="625.93" y="522" width="274.07" height="22" fill="#f0444a" opacity=".85" /><text x="762.96" y="600.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17.0" font-weight="700" fill="#f0444a" text-anchor="middle" class="">HIGH</text><text x="297.04" y="572.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="16.0" font-weight="600" fill="#48515e" text-anchor="middle" class="">13</text><text x="488.89" y="572.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="16.0" font-weight="600" fill="#48515e" text-anchor="middle" class="">20</text><text x="625.93" y="572.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="16.0" font-weight="600" fill="#48515e" text-anchor="middle" class="">25</text></g><g data-move="205.56" data-delay="4.45" data-duration="1.6"><path d="M160.0 516 V550" stroke="#eef2f8" stroke-width="4" stroke-linecap="round" /><path d="M149.0 496 L171.0 496 L160.0 516 Z" fill="#eef2f8" /></g><g class="slide-item" data-enter="6.4" data-cue="VOLATILITY reading"><text x="160.0" y="692.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="28.0" text-anchor="start"><tspan fill="#9ba5b4" font-weight="500">15.5 sits in the </tspan><tspan fill="#438cff" font-weight="750">NORMAL zone</tspan><tspan fill="#9ba5b4" font-weight="500"> (13–20)</tspan></text></g><g class="fade-item" data-enter="7.35"><text x="160.0" y="822.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="18.0" font-weight="500" fill="#657080" text-anchor="start" class="">Verified just now · yfinance (daily bar)</text></g><g class="anim-panel" data-enter="8.3" data-cue="OPTIONS SENTIMENT"><rect x="980.0" y="222.0" width="820.0" height="640.0" rx="20" fill="#11151d" stroke="#242b36" stroke-width="2" class="" /><text x="1020.0" y="284.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="26.0" font-weight="750" fill="#8993a3" text-anchor="start" class="">OPTIONS SENTIMENT</text><text x="1760.0" y="284.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20.0" font-weight="600" fill="#48515e" text-anchor="end" class="">PUT-CALL RATIO</text></g><g class="slide-item" data-enter="9.25" data-cue="OPTIONS SENTIMENT value"><text x="1020.0" y="427.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="118.0" font-weight="800" fill="#eef2f8" text-anchor="start" data-counter="1" data-target="1.45" data-prefix="" data-suffix="" data-decimals="2" data-delay="9.3" data-duration="1.6" data-pulse="1">1.45</text><rect x="1462.76" y="346.0" width="297.24" height="50.0" rx="25.0" fill="#111922" stroke="#f0444a" stroke-width="2" /><text x="1611.38" y="380.46" font-family="Inter,Arial,Helvetica,sans-serif" font-size="26.0" font-weight="750" fill="#f0444a" text-anchor="middle" class="">BEARISH-LEANING</text></g><g class="fade-item" data-enter="11.8" data-cue="OPTIONS SENTIMENT zones"><clipPath id="zc980"><rect x="1020.0" y="522" width="740.0" height="22" rx="11" /></clipPath><g clip-path="url(#zc980)"><rect x="1020.0" y="522" width="246.67" height="22" fill="#f0444a" opacity=".85" /></g><text x="1143.33" y="600.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17.0" font-weight="700" fill="#f0444a" text-anchor="middle" class="">BEARISH</text><rect x="1266.67" y="522" width="246.67" height="22" fill="#f5a623" opacity=".85" /><text x="1390.0" y="600.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17.0" font-weight="700" fill="#f5a623" text-anchor="middle" class="">NEUTRAL</text><rect x="1513.33" y="522" width="246.67" height="22" fill="#10bd8b" opacity=".85" /><text x="1636.67" y="600.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17.0" font-weight="700" fill="#10bd8b" text-anchor="middle" class="">BULLISH</text><text x="1266.67" y="572.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="16.0" font-weight="600" fill="#48515e" text-anchor="middle" class="">0.8</text><text x="1513.33" y="572.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="16.0" font-weight="600" fill="#48515e" text-anchor="middle" class="">1.2</text></g><g data-move="647.5" data-delay="11.85" data-duration="1.6"><path d="M1020.0 516 V550" stroke="#eef2f8" stroke-width="4" stroke-linecap="round" /><path d="M1009.0 496 L1031.0 496 L1020.0 516 Z" fill="#eef2f8" /></g><g class="slide-item" data-enter="13.8" data-cue="OPTIONS SENTIMENT reading"><text x="1020.0" y="692.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="28.0" text-anchor="start"><tspan fill="#9ba5b4" font-weight="500">1.45 sits in the </tspan><tspan fill="#f0444a" font-weight="750">BULLISH zone</tspan><tspan fill="#9ba5b4" font-weight="500"> (1.2–1.6)</tspan></text></g><g class="fade-item" data-enter="14.75"><text x="1020.0" y="822.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="18.0" font-weight="500" fill="#657080" text-anchor="start" class="">NIFTY PCR (OI) · spot 25387 · 17-Nov-2026 expiry</text></g><g class="slide-item" data-enter="15.7" data-cue="Volatility and sentiment summary"><text x="120.0" y="920.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="26.0" text-anchor="start"><tspan fill="#9ba5b4" font-weight="500">India VIX </tspan><tspan fill="#eef2f8" font-weight="750">15.5</tspan><tspan fill="#438cff" font-weight="750">  NORMAL</tspan><tspan fill="#10bd8b" font-weight="750">  -1.2%</tspan><tspan fill="#9ba5b4" font-weight="500">      ·      Options PCR </tspan><tspan fill="#eef2f8" font-weight="750">1.45</tspan><tspan fill="#f0444a" font-weight="750">  bearish-leaning</tspan></text></g>
+<script><![CDATA[
+(function(){
+"use strict";
+var SCHEDULE=null;
+var TOTAL=20.3;
+var STOPS=[[0.9, 0.9], [1.85, 1.85], [4.4, 4.4], [6.4, 6.4], [7.35, 7.35], [8.3, 8.3], [9.25, 9.25], [11.8, 11.8], [13.8, 13.8], [14.75, 14.75], [15.7, 15.7], [16.35, 20.3]];
+var ease=function(t){return t<.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2;};
+var outc=function(t){return 1-Math.pow(1-t,3);};
+var cl=function(v,a,b){return Math.max(a,Math.min(b,v));};
+var nf=function(v,d){return Math.abs(v).toLocaleString("en-IN",{minimumFractionDigits:d,maximumFractionDigits:d});};
+var N=function(el,k,d){var v=parseFloat(el.dataset[k]);return isFinite(v)?v:d;};
+var root=document.documentElement;
+var scenes=Array.prototype.slice.call(document.querySelectorAll(".scene"));
+var pat=document.getElementById("gridPat");
+var dots=Array.prototype.slice.call(document.querySelectorAll(".pdot"));
+var cache=new Map();
+function Q(s,sel){return Array.prototype.slice.call(s.querySelectorAll(sel));}
+function prep(s){
+  var P=cache.get(s);
+  if(!P){P={
+    reveal:Q(s,".heading-slide,.slide-item,.anim-card,.anim-row,.anim-panel,.fade-item"),
+    counters:Q(s,'[data-counter="1"]'),bars:Q(s,'[data-bar="1"]'),gauges:Q(s,"[data-gauge]"),
+    types:Q(s,"[data-typewriter]"),draws:Q(s,"[data-draw]"),glows:Q(s,"[data-glow]"),
+    returns:Q(s,"[data-return]"),moves:Q(s,"[data-move]")};
+    P.returns.forEach(function(el){var v=Number(el.dataset["return"]);el.setAttribute("fill",v>0?"#10bd8b":v<0?"#f0444a":"#8993a3");});
+    cache.set(s,P);}
+  return P;
+}
+function apply(s,t){
+  var P=prep(s);
+  P.reveal.forEach(function(el){
+    var e=outc(cl((t-N(el,"enter",0))/0.6,0,1));
+    el.style.opacity=e;
+    if(!el.classList.contains("fade-item"))el.style.transform="translateX("+(-28*(1-e))+"px)";
+  });
+  P.types.forEach(function(el){
+    var full=el.dataset.fullText||"";
+    var p=cl((t-N(el,"typeDelay",0))/N(el,"typeDuration",1.5),0,1);
+    el.textContent=full.slice(0,Math.floor(full.length*ease(p)));
+  });
+  P.counters.forEach(function(el){
+    var target=Number(el.dataset.target),dec=N(el,"decimals",0),delay=N(el,"delay",0),dur=N(el,"duration",1.4);
+    var p=cl((t-delay)/dur,0,1);
+    el.textContent=(target<0?"-":"")+(el.dataset.prefix||"")+nf(Math.abs(target)*ease(p),dec)+(el.dataset.suffix||"");
+    if(el.dataset.pulse){
+      var q=(t-delay-dur)/0.55;el.style.transformBox="fill-box";el.style.transformOrigin="50% 50%";
+      el.style.transform=(q>0&&q<1)?"scale("+(1+0.06*Math.sin(q*Math.PI))+")":"";
+    }
+  });
+  P.bars.forEach(function(el){
+    var w=N(el,"barTarget",0)*ease(cl((t-N(el,"delay",0))/N(el,"duration",1.5),0,1));
+    el.setAttribute("width",w);
+    if(el.dataset.barDir==="-1")el.setAttribute("x",N(el,"barX0",0)-w);
+  });
+  P.moves.forEach(function(el){
+    var p=ease(cl((t-N(el,"delay",0))/N(el,"duration",1.5),0,1));
+    el.setAttribute("transform","translate("+(N(el,"move",0)*p)+",0)");
+  });
+  P.gauges.forEach(function(el){
+    var sc=N(el,"gauge",0),len=N(el,"length",0);
+    var p=ease(cl((t-N(el,"delay",0))/N(el,"duration",1.5),0,1));
+    el.style.strokeDashoffset=String(len*(1-p*sc/100));
+  });
+  P.draws.forEach(function(el){
+    el.style.strokeDashoffset=String(1-ease(cl((t-N(el,"delay",0))/N(el,"duration",0.8),0,1)));
+  });
+  P.glows.forEach(function(el){
+    var g=t-N(el,"enter",0)-0.8;
+    el.style.filter=g>0?"drop-shadow(0 0 "+(2+5*(0.5+0.5*Math.sin(t*1.85)))+"px "+el.dataset.glow+")":"";
+  });
+}
+function show(t){
+  if(pat)pat.setAttribute("patternTransform","translate("+((t*5)%64)+","+((t*2.5)%64)+")");
+  if(!SCHEDULE){apply(root,t);return;}
+  var cur=0;
+  scenes.forEach(function(s,i){
+    var sc=SCHEDULE[i],lt=t-sc.start;
+    if(t>=sc.start)cur=i;
+    if(lt<0||lt>=sc.dur+(i===scenes.length-1?1e9:0)){s.style.display="none";return;}
+    s.style.display="inline";
+    var fin=cl(lt/0.45,0,1),fout=(i===scenes.length-1)?1:cl((sc.dur-lt)/0.5,0,1);
+    s.style.opacity=ease(Math.min(fin,fout));
+    apply(s,lt);
+  });
+  dots.forEach(function(d,i){d.setAttribute("fill",i===cur?"#438cff":i<cur?"#4c5b70":"#243040");});
+}
+window.__setTime=show;window.__duration=TOTAL;window.__stops=STOPS;
+var m=/[?&]t=([0-9.]+)/.exec(location.search);
+if(m){show(parseFloat(m[1]));}
+else if(window.__manual){show(0);}
+else{
+ var clock=0,paused=false,waiting=false,pend=null,step=/[?&]step=1/.test(location.search),last=null;
+ function resume(){if(waiting){if(pend!==null&&pend>clock)clock=pend;waiting=false;pend=null;show(clock);}paused=false;}
+ function go(i,play){var s=STOPS[i];clock=s[0];show(clock);
+  if(play&&!step){paused=false;waiting=false;pend=null;}else{paused=true;waiting=true;pend=s[1];}}
+ function next(){for(var i=0;i<STOPS.length;i++)if(STOPS[i][0]>clock+1e-3){go(i,true);return;}}
+ function prev(){for(var i=STOPS.length-1;i>=0;i--)if(STOPS[i][0]<clock-0.4){go(i,false);return;}
+  clock=0;show(0);paused=true;waiting=false;pend=null;}
+ document.addEventListener("keydown",function(e){var k=e.key;
+  if(k===" "||k==="Enter"){if(waiting||paused)resume();else paused=true;e.preventDefault();}
+  else if(k==="ArrowRight"){if(waiting)resume();else next();}
+  else if(k==="ArrowLeft")prev();
+  else if(k==="s"||k==="S")step=!step;
+  else if(k==="r"||k==="R"){clock=0;paused=false;waiting=false;pend=null;show(0);}
+ });
+ window.__ctl={state:function(){return {clock:clock,paused:paused,waiting:waiting,step:step};}};
+ show(0);
+ (function tick(now){
+  if(last===null)last=now;var dt=Math.min(.1,(now-last)/1000);last=now;
+  if(!paused&&clock<TOTAL){
+   var nt=clock+dt;
+   if(step)for(var i=0;i<STOPS.length;i++){var s=STOPS[i][0];
+    if(s>clock+1e-6&&s<=nt+1e-6){nt=s;paused=true;waiting=true;pend=STOPS[i][1];break;}}
+   clock=Math.min(nt,TOTAL);show(clock);
+  }
+  requestAnimationFrame(tick);
+ })(performance.now());
+}
+})();
+]]></script>
+</svg>

@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" overflow="hidden" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-label="02_market_health_scores.svg">
+<defs><pattern id="gridPat" width="64" height="64" patternUnits="userSpaceOnUse"><path d="M64 0H0V64" fill="none" stroke="#141a23" stroke-width="1"/></pattern></defs>
+<style>text{dominant-baseline:auto}.gauge-track{fill:none;stroke:#202a36;stroke-width:16;stroke-linecap:round}.gauge-progress{fill:none;stroke-width:16;stroke-linecap:round}.bar-track{fill:#202a36}</style>
+<g class="hdr"><rect width="1920" height="1080" fill="#303030" /><rect x="88" y="46" width="1744" height="988" rx="30" fill="#080a0d" /><rect x="88" y="46" width="1744" height="988" rx="30" fill="url(#gridPat)" opacity=".55" /><g class="heading-slide" data-enter="0.05"><text x="176.0" y="130.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="24.0" font-weight="750" fill="#438cff" text-anchor="start" class="">MARKET HEALTH</text></g><g class="heading-slide" data-enter="0.18"><text x="176.0" y="188.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="48.0" font-weight="750" fill="#eef2f8" text-anchor="start" class="">HOW STRONG IS THE FOUNDATION?</text></g><path d="M176 204 H300" fill="none" stroke="#438cff" stroke-width="4" stroke-linecap="round" opacity="1" pathLength="1" stroke-dasharray="1" data-draw="1" data-delay="0.5" data-duration="0.7" /><text x="1744.0" y="132.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="22.0" font-weight="500" fill="#8993a3" text-anchor="end" class="">MARKET INTELLIGENCE · 17 NOV 2026</text><text x="176.0" y="990.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="17.0" font-weight="500" fill="#48515e" text-anchor="start" class="">Educational &amp; research purposes only. Not investment advice.</text></g><g class="anim-card" data-enter="0.9" data-cue="TREND gauge"><rect x="120.0" y="270.0" width="538.67" height="331.5" rx="20" fill="#11151d" stroke="#242b36" stroke-width="2" class="" /><circle cx="240.0" cy="435.75" r="72.0" class="gauge-track" stroke-dasharray="352.86 490" transform="rotate(135 240.0 435.75)" /><circle cx="240.0" cy="435.75" r="72.0" class="gauge-progress" stroke="#10bd8b" stroke-dasharray="352.86 490" stroke-dashoffset="130.56" transform="rotate(135 240.0 435.75)" data-gauge="63.0" data-delay="0.9" data-duration="1.5" data-length="352.86" /><text x="240.0" y="453.03" font-family="Inter,Arial,Helvetica,sans-serif" font-size="54.0" font-weight="800" fill="#10bd8b" text-anchor="middle" data-counter="1" data-target="63.0" data-prefix="" data-suffix="" data-decimals="0" data-delay="0.9" data-duration="1.5">63</text><text x="342.0" y="395.97" font-family="Inter,Arial,Helvetica,sans-serif" font-size="33.0" font-weight="750" fill="#eef2f8" text-anchor="start" class="">TREND</text><text x="342.0" y="447.97" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20.0" font-weight="500" fill="#9ba5b4" text-anchor="start" class="">NIFTY50 25379.60 trading</text><text x="342.0" y="474.97" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20.0" font-weight="500" fill="#9ba5b4" text-anchor="start" class="">above 200-SMA 23992.87</text></g><g class="anim-card" data-enter="2.75" data-cue="BREADTH gauge"><rect x="690.67" y="270.0" width="538.67" height="331.5" rx="20" fill="#11151d" stroke="#242b36" stroke-width="2" class="" /><circle cx="810.67" cy="435.75" r="72.0" class="gauge-track" stroke-dasharray="352.86 490" transform="rotate(135 810.67 435.75)" /><circle cx="810.67" cy="435.75" r="72.0" class="gauge-progress" stroke="#f0444a" stroke-dasharray="352.86 490" stroke-dashoffset="211.72" transform="rotate(135 810.67 435.75)" data-gauge="40.0" data-delay="2.75" data-duration="1.5" data-length="352.86" /><text x="810.67" y="453.03" font-family="Inter,Arial,Helvetica,sans-serif" font-size="54.0" font-weight="800" fill="#f0444a" text-anchor="middle" data-counter="1" data-target="40.0" data-prefix="" data-suffix="" data-decimals="0" data-delay="2.75" data-duration="1.5">40</text><text x="912.67" y="395.97" font-family="Inter,Arial,Helvetica,sans-serif" font-size="33.0" font-weight="750" fill="#eef2f8" text-anchor="start" class="">BREADTH</text><text x="912.67" y="447.97" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20.0" font-weight="500" fill="#9ba5b4" text-anchor="start" class="">40% of scanned universe in</text><text x="912.67" y="474.97" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20.0" font-weight="500" fill="#9ba5b4" text-anchor="start" class="">Stage 1/2</text><text x="912.67" y="501.97" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20.0" font-weight="500" fill="#9ba5b4" text-anchor="start" class="">(basing/advancing)</text></g><g class="anim-card" data-enter="4.6" data-cue="MOMENTUM gauge"><rect x="1261.33" y="270.0" width="538.67" height="331.5" rx="20" fill="#11151d" stroke="#242b36" stroke-width="2" class="" /><circle cx="1381.33" cy="435.75" r="72.0" class="gauge-track" stroke-dasharray="352.86 490" transform="rotate(135 1381.33 435.75)" /><circle cx="1381.33" cy="435.75" r="72.0" class="gauge-progress" stroke="#f5a623" stroke-dasharray="352.86 490" stroke-dashoffset="194.08" transform="rotate(135 1381.33 435.75)" data-gauge="45.0" data-delay="4.6" data-duration="1.5" data-length="352.86" /><text x="1381.33" y="453.03" font-family="Inter,Arial,Helvetica,sans-serif" font-size="54.0" font-weight="800" fill="#f5a623" text-anchor="middle" data-counter="1" data-target="45.0" data-prefix="" data-suffix="" data-decimals="0" data-delay="4.6" data-duration="1.5">45</text><text x="1483.33" y="395.97" font-family="Inter,Arial,Helvetica,sans-serif" font-size="33.0" font-weight="750" fill="#eef2f8" text-anchor="start" class="">MOMENTUM</text><text x="1483.33" y="447.97" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20.0" font-weight="500" fill="#9ba5b4" text-anchor="start" class="">30% of universe in Stage 2</text><text x="1483.33" y="474.97" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20.0" font-weight="500" fill="#9ba5b4" text-anchor="start" class="">(advancing), 10% in Stage 1</text><text x="1483.33" y="501.97" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20.0" font-weight="500" fill="#9ba5b4" text-anchor="start" class="">(basing)</text></g><g class="anim-card" data-enter="6.45" data-cue="LIQUIDITY gauge"><rect x="120.0" y="623.5" width="538.67" height="331.5" rx="20" fill="#11151d" stroke="#242b36" stroke-width="2" class="" /><circle cx="240.0" cy="789.25" r="72.0" class="gauge-track" stroke-dasharray="352.86 490" transform="rotate(135 240.0 789.25)" /><circle cx="240.0" cy="789.25" r="72.0" class="gauge-progress" stroke="#10bd8b" stroke-dasharray="352.86 490" stroke-dashoffset="155.26" transform="rotate(135 240.0 789.25)" data-gauge="56.0" data-delay="6.45" data-duration="1.5" data-length="352.86" /><text x="240.0" y="806.53" font-family="Inter,Arial,Helvetica,sans-serif" font-size="54.0" font-weight="800" fill="#10bd8b" text-anchor="middle" data-counter="1" data-target="56.0" data-prefix="" data-suffix="" data-decimals="0" data-delay="6.45" data-duration="1.5">56</text><text x="342.0" y="749.47" font-family="Inter,Arial,Helvetica,sans-serif" font-size="33.0" font-weight="750" fill="#eef2f8" text-anchor="start" class="">LIQUIDITY</text><text x="342.0" y="801.47" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20.0" font-weight="500" fill="#9ba5b4" text-anchor="start" class="">76% show accumulation</text><text x="342.0" y="828.47" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20.0" font-weight="500" fill="#9ba5b4" text-anchor="start" class="">signals (rising OBV +</text><text x="342.0" y="855.47" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20.0" font-weight="500" fill="#9ba5b4" text-anchor="start" class="">positive CMF)</text></g><g class="anim-card" data-enter="8.3" data-cue="RISK gauge"><rect x="690.67" y="623.5" width="538.67" height="331.5" rx="20" fill="#11151d" stroke="#242b36" stroke-width="2" class="" /><circle cx="810.67" cy="789.25" r="72.0" class="gauge-track" stroke-dasharray="352.86 490" transform="rotate(135 810.67 789.25)" /><circle cx="810.67" cy="789.25" r="72.0" class="gauge-progress" stroke="#f0444a" stroke-dasharray="352.86 490" stroke-dashoffset="282.29" transform="rotate(135 810.67 789.25)" data-gauge="20.0" data-delay="8.3" data-duration="1.5" data-length="352.86" /><text x="810.67" y="806.53" font-family="Inter,Arial,Helvetica,sans-serif" font-size="54.0" font-weight="800" fill="#f0444a" text-anchor="middle" data-counter="1" data-target="20.0" data-prefix="" data-suffix="" data-decimals="0" data-delay="8.3" data-duration="1.5">20</text><text x="912.67" y="749.47" font-family="Inter,Arial,Helvetica,sans-serif" font-size="33.0" font-weight="750" fill="#eef2f8" text-anchor="start" class="">RISK</text><text x="912.67" y="801.47" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20.0" font-weight="500" fill="#9ba5b4" text-anchor="start" class="">US 10Y yield elevated at</text><text x="912.67" y="828.47" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20.0" font-weight="500" fill="#9ba5b4" text-anchor="start" class="">5.12% — global risk-off</text><text x="912.67" y="855.47" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20.0" font-weight="500" fill="#9ba5b4" text-anchor="start" class="">pressure</text></g><g class="anim-card" data-enter="10.15" data-cue="MACRO gauge"><rect x="1261.33" y="623.5" width="538.67" height="331.5" rx="20" fill="#11151d" stroke="#242b36" stroke-width="2" class="" /><circle cx="1381.33" cy="789.25" r="72.0" class="gauge-track" stroke-dasharray="352.86 490" transform="rotate(135 1381.33 789.25)" /><circle cx="1381.33" cy="789.25" r="72.0" class="gauge-progress" stroke="#f5a623" stroke-dasharray="352.86 490" stroke-dashoffset="169.37" transform="rotate(135 1381.33 789.25)" data-gauge="52.0" data-delay="10.15" data-duration="1.5" data-length="352.86" /><text x="1381.33" y="806.53" font-family="Inter,Arial,Helvetica,sans-serif" font-size="54.0" font-weight="800" fill="#f5a623" text-anchor="middle" data-counter="1" data-target="52.0" data-prefix="" data-suffix="" data-decimals="0" data-delay="10.15" data-duration="1.5">52</text><text x="1483.33" y="749.47" font-family="Inter,Arial,Helvetica,sans-serif" font-size="33.0" font-weight="750" fill="#eef2f8" text-anchor="start" class="">MACRO</text><text x="1483.33" y="801.47" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20.0" font-weight="500" fill="#9ba5b4" text-anchor="start" class="">GDP growth supportive</text><text x="1483.33" y="828.47" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20.0" font-weight="500" fill="#9ba5b4" text-anchor="start" class="">(indicator score 88.0/100;</text><text x="1483.33" y="855.47" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20.0" font-weight="500" fill="#9ba5b4" text-anchor="start" class="">weighted impact +5.7…</text></g><g class="slide-item" data-enter="12.0" data-cue="Health summary"><text x="176.0" y="236.0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="26.0" text-anchor="start"><tspan fill="#f0444a" font-weight="750">2 red</tspan><tspan fill="#f5a623" font-weight="750">  ·  2 amber</tspan><tspan fill="#10bd8b" font-weight="750">  ·  2 green</tspan><tspan fill="#9ba5b4" font-weight="500">   —   strongest TREND 63  ·  weakest RISK 20</tspan></text></g><g class="fade-item" data-enter="12.0"><rect x="117.0" y="267.0" width="544.67" height="337.5" rx="23" fill="none" stroke="#10bd8b" stroke-width="3" class="" /><rect x="687.67" y="620.5" width="544.67" height="337.5" rx="23" fill="none" stroke="#f0444a" stroke-width="3" class="" /></g>
+<script><![CDATA[
+(function(){
+"use strict";
+var SCHEDULE=null;
+var TOTAL=16.6;
+var STOPS=[[0.9, 0.9], [2.75, 2.75], [4.6, 4.6], [6.45, 6.45], [8.3, 8.3], [10.15, 10.15], [12.0, 12.0], [12.65, 16.6]];
+var ease=function(t){return t<.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2;};
+var outc=function(t){return 1-Math.pow(1-t,3);};
+var cl=function(v,a,b){return Math.max(a,Math.min(b,v));};
+var nf=function(v,d){return Math.abs(v).toLocaleString("en-IN",{minimumFractionDigits:d,maximumFractionDigits:d});};
+var N=function(el,k,d){var v=parseFloat(el.dataset[k]);return isFinite(v)?v:d;};
+var root=document.documentElement;
+var scenes=Array.prototype.slice.call(document.querySelectorAll(".scene"));
+var pat=document.getElementById("gridPat");
+var dots=Array.prototype.slice.call(document.querySelectorAll(".pdot"));
+var cache=new Map();
+function Q(s,sel){return Array.prototype.slice.call(s.querySelectorAll(sel));}
+function prep(s){
+  var P=cache.get(s);
+  if(!P){P={
+    reveal:Q(s,".heading-slide,.slide-item,.anim-card,.anim-row,.anim-panel,.fade-item"),
+    counters:Q(s,'[data-counter="1"]'),bars:Q(s,'[data-bar="1"]'),gauges:Q(s,"[data-gauge]"),
+    types:Q(s,"[data-typewriter]"),draws:Q(s,"[data-draw]"),glows:Q(s,"[data-glow]"),
+    returns:Q(s,"[data-return]"),moves:Q(s,"[data-move]")};
+    P.returns.forEach(function(el){var v=Number(el.dataset["return"]);el.setAttribute("fill",v>0?"#10bd8b":v<0?"#f0444a":"#8993a3");});
+    cache.set(s,P);}
+  return P;
+}
+function apply(s,t){
+  var P=prep(s);
+  P.reveal.forEach(function(el){
+    var e=outc(cl((t-N(el,"enter",0))/0.6,0,1));
+    el.style.opacity=e;
+    if(!el.classList.contains("fade-item"))el.style.transform="translateX("+(-28*(1-e))+"px)";
+  });
+  P.types.forEach(function(el){
+    var full=el.dataset.fullText||"";
+    var p=cl((t-N(el,"typeDelay",0))/N(el,"typeDuration",1.5),0,1);
+    el.textContent=full.slice(0,Math.floor(full.length*ease(p)));
+  });
+  P.counters.forEach(function(el){
+    var target=Number(el.dataset.target),dec=N(el,"decimals",0),delay=N(el,"delay",0),dur=N(el,"duration",1.4);
+    var p=cl((t-delay)/dur,0,1);
+    el.textContent=(target<0?"-":"")+(el.dataset.prefix||"")+nf(Math.abs(target)*ease(p),dec)+(el.dataset.suffix||"");
+    if(el.dataset.pulse){
+      var q=(t-delay-dur)/0.55;el.style.transformBox="fill-box";el.style.transformOrigin="50% 50%";
+      el.style.transform=(q>0&&q<1)?"scale("+(1+0.06*Math.sin(q*Math.PI))+")":"";
+    }
+  });
+  P.bars.forEach(function(el){
+    var w=N(el,"barTarget",0)*ease(cl((t-N(el,"delay",0))/N(el,"duration",1.5),0,1));
+    el.setAttribute("width",w);
+    if(el.dataset.barDir==="-1")el.setAttribute("x",N(el,"barX0",0)-w);
+  });
+  P.moves.forEach(function(el){
+    var p=ease(cl((t-N(el,"delay",0))/N(el,"duration",1.5),0,1));
+    el.setAttribute("transform","translate("+(N(el,"move",0)*p)+",0)");
+  });
+  P.gauges.forEach(function(el){
+    var sc=N(el,"gauge",0),len=N(el,"length",0);
+    var p=ease(cl((t-N(el,"delay",0))/N(el,"duration",1.5),0,1));
+    el.style.strokeDashoffset=String(len*(1-p*sc/100));
+  });
+  P.draws.forEach(function(el){
+    el.style.strokeDashoffset=String(1-ease(cl((t-N(el,"delay",0))/N(el,"duration",0.8),0,1)));
+  });
+  P.glows.forEach(function(el){
+    var g=t-N(el,"enter",0)-0.8;
+    el.style.filter=g>0?"drop-shadow(0 0 "+(2+5*(0.5+0.5*Math.sin(t*1.85)))+"px "+el.dataset.glow+")":"";
+  });
+}
+function show(t){
+  if(pat)pat.setAttribute("patternTransform","translate("+((t*5)%64)+","+((t*2.5)%64)+")");
+  if(!SCHEDULE){apply(root,t);return;}
+  var cur=0;
+  scenes.forEach(function(s,i){
+    var sc=SCHEDULE[i],lt=t-sc.start;
+    if(t>=sc.start)cur=i;
+    if(lt<0||lt>=sc.dur+(i===scenes.length-1?1e9:0)){s.style.display="none";return;}
+    s.style.display="inline";
+    var fin=cl(lt/0.45,0,1),fout=(i===scenes.length-1)?1:cl((sc.dur-lt)/0.5,0,1);
+    s.style.opacity=ease(Math.min(fin,fout));
+    apply(s,lt);
+  });
+  dots.forEach(function(d,i){d.setAttribute("fill",i===cur?"#438cff":i<cur?"#4c5b70":"#243040");});
+}
+window.__setTime=show;window.__duration=TOTAL;window.__stops=STOPS;
+var m=/[?&]t=([0-9.]+)/.exec(location.search);
+if(m){show(parseFloat(m[1]));}
+else if(window.__manual){show(0);}
+else{
+ var clock=0,paused=false,waiting=false,pend=null,step=/[?&]step=1/.test(location.search),last=null;
+ function resume(){if(waiting){if(pend!==null&&pend>clock)clock=pend;waiting=false;pend=null;show(clock);}paused=false;}
+ function go(i,play){var s=STOPS[i];clock=s[0];show(clock);
+  if(play&&!step){paused=false;waiting=false;pend=null;}else{paused=true;waiting=true;pend=s[1];}}
+ function next(){for(var i=0;i<STOPS.length;i++)if(STOPS[i][0]>clock+1e-3){go(i,true);return;}}
+ function prev(){for(var i=STOPS.length-1;i>=0;i--)if(STOPS[i][0]<clock-0.4){go(i,false);return;}
+  clock=0;show(0);paused=true;waiting=false;pend=null;}
+ document.addEventListener("keydown",function(e){var k=e.key;
+  if(k===" "||k==="Enter"){if(waiting||paused)resume();else paused=true;e.preventDefault();}
+  else if(k==="ArrowRight"){if(waiting)resume();else next();}
+  else if(k==="ArrowLeft")prev();
+  else if(k==="s"||k==="S")step=!step;
+  else if(k==="r"||k==="R"){clock=0;paused=false;waiting=false;pend=null;show(0);}
+ });
+ window.__ctl={state:function(){return {clock:clock,paused:paused,waiting:waiting,step:step};}};
+ show(0);
+ (function tick(now){
+  if(last===null)last=now;var dt=Math.min(.1,(now-last)/1000);last=now;
+  if(!paused&&clock<TOTAL){
+   var nt=clock+dt;
+   if(step)for(var i=0;i<STOPS.length;i++){var s=STOPS[i][0];
+    if(s>clock+1e-6&&s<=nt+1e-6){nt=s;paused=true;waiting=true;pend=STOPS[i][1];break;}}
+   clock=Math.min(nt,TOTAL);show(clock);
+  }
+  requestAnimationFrame(tick);
+ })(performance.now());
+}
+})();
+]]></script>
+</svg>

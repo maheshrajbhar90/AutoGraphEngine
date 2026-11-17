@@ -1,0 +1,479 @@
+{
+  "total_seconds": 137.15,
+  "scenes": [
+    {
+      "scene": 1,
+      "file": "01_market_bias.svg",
+      "start": 0.0,
+      "duration": 10,
+      "animation_ends_at": 16.05,
+      "hold_seconds": 4.0,
+      "beats": [
+        {
+          "n": 1,
+          "t": 0.9,
+          "length": 0.6,
+          "label": "Market bias headline"
+        },
+        {
+          "n": 2,
+          "t": 1.85,
+          "length": 1.25,
+          "label": "Bias word typed"
+        },
+        {
+          "n": 3,
+          "t": 3.45,
+          "length": 1.2,
+          "label": "Step 3"
+        },
+        {
+          "n": 4,
+          "t": 5.0,
+          "length": 0.6,
+          "label": "Step 4"
+        },
+        {
+          "n": 5,
+          "t": 5.95,
+          "length": 0.6,
+          "label": "Step 5"
+        },
+        {
+          "n": 6,
+          "t": 6.9,
+          "length": 0.6,
+          "label": "Health score counts up"
+        },
+        {
+          "n": 7,
+          "t": 7.85,
+          "length": 2.55,
+          "label": "Step 7"
+        },
+        {
+          "n": 8,
+          "t": 10.75,
+          "length": 0.9,
+          "label": "Step 8"
+        },
+        {
+          "n": 9,
+          "t": 12.0,
+          "length": 0.9,
+          "label": "Step 9"
+        },
+        {
+          "n": 10,
+          "t": 13.25,
+          "length": 0.9,
+          "label": "Step 10"
+        },
+        {
+          "n": 11,
+          "t": 14.5,
+          "length": 0.6,
+          "label": "Dominant scenario highlighted"
+        },
+        {
+          "n": 12,
+          "t": 15.45,
+          "length": 0.6,
+          "label": "Hook line"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "file": "02_market_health_scores.svg",
+      "start": 20.05,
+      "duration": 16.6,
+      "animation_ends_at": 32.65,
+      "hold_seconds": 4.0,
+      "beats": [
+        {
+          "n": 1,
+          "t": 20.95,
+          "length": 1.5,
+          "label": "TREND gauge"
+        },
+        {
+          "n": 2,
+          "t": 22.8,
+          "length": 1.5,
+          "label": "BREADTH gauge"
+        },
+        {
+          "n": 3,
+          "t": 24.65,
+          "length": 1.5,
+          "label": "MOMENTUM gauge"
+        },
+        {
+          "n": 4,
+          "t": 26.5,
+          "length": 1.5,
+          "label": "LIQUIDITY gauge"
+        },
+        {
+          "n": 5,
+          "t": 28.35,
+          "length": 1.5,
+          "label": "RISK gauge"
+        },
+        {
+          "n": 6,
+          "t": 30.2,
+          "length": 1.5,
+          "label": "MACRO gauge"
+        },
+        {
+          "n": 7,
+          "t": 32.05,
+          "length": 0.6,
+          "label": "Health summary"
+        }
+      ]
+    },
+    {
+      "scene": 3,
+      "file": "03_sector_performance.svg",
+      "start": 36.65,
+      "duration": 33.15,
+      "animation_ends_at": 65.8,
+      "hold_seconds": 4.0,
+      "beats": [
+        {
+          "n": 1,
+          "t": 37.55,
+          "length": 1.1,
+          "label": "Step 1"
+        },
+        {
+          "n": 2,
+          "t": 39.0,
+          "length": 1.1,
+          "label": "Step 2"
+        },
+        {
+          "n": 3,
+          "t": 40.45,
+          "length": 1.1,
+          "label": "Step 3"
+        },
+        {
+          "n": 4,
+          "t": 41.9,
+          "length": 1.1,
+          "label": "Step 4"
+        },
+        {
+          "n": 5,
+          "t": 43.35,
+          "length": 1.1,
+          "label": "Step 5"
+        },
+        {
+          "n": 6,
+          "t": 44.8,
+          "length": 1.1,
+          "label": "Step 6"
+        },
+        {
+          "n": 7,
+          "t": 46.25,
+          "length": 1.1,
+          "label": "Step 7"
+        },
+        {
+          "n": 8,
+          "t": 47.7,
+          "length": 1.1,
+          "label": "Step 8"
+        },
+        {
+          "n": 9,
+          "t": 49.15,
+          "length": 1.1,
+          "label": "Step 9"
+        },
+        {
+          "n": 10,
+          "t": 50.6,
+          "length": 1.1,
+          "label": "Step 10"
+        },
+        {
+          "n": 11,
+          "t": 52.05,
+          "length": 1.1,
+          "label": "Step 11"
+        },
+        {
+          "n": 12,
+          "t": 53.5,
+          "length": 1.1,
+          "label": "Step 12"
+        },
+        {
+          "n": 13,
+          "t": 54.95,
+          "length": 1.1,
+          "label": "Step 13"
+        },
+        {
+          "n": 14,
+          "t": 56.4,
+          "length": 1.1,
+          "label": "Step 14"
+        },
+        {
+          "n": 15,
+          "t": 57.85,
+          "length": 0.8,
+          "label": "Step 15"
+        },
+        {
+          "n": 16,
+          "t": 59.0,
+          "length": 0.6,
+          "label": "Leader and laggard panel"
+        },
+        {
+          "n": 17,
+          "t": 59.95,
+          "length": 0.6,
+          "label": "Step 17"
+        },
+        {
+          "n": 18,
+          "t": 60.9,
+          "length": 1.4,
+          "label": "Step 18"
+        },
+        {
+          "n": 19,
+          "t": 62.65,
+          "length": 1.4,
+          "label": "Step 19"
+        },
+        {
+          "n": 20,
+          "t": 64.4,
+          "length": 1.4,
+          "label": "Step 20"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "file": "04_fii_dii_flows.svg",
+      "start": 69.8,
+      "duration": 21.15,
+      "animation_ends_at": 86.95,
+      "hold_seconds": 4.0,
+      "beats": [
+        {
+          "n": 1,
+          "t": 70.7,
+          "length": 2.7,
+          "label": "FII flow"
+        },
+        {
+          "n": 2,
+          "t": 73.75,
+          "length": 1.5,
+          "label": "FII flow (part 2)"
+        },
+        {
+          "n": 3,
+          "t": 75.6,
+          "length": 1.5,
+          "label": "FII flow (part 3)"
+        },
+        {
+          "n": 4,
+          "t": 77.45,
+          "length": 2.7,
+          "label": "DII flow"
+        },
+        {
+          "n": 5,
+          "t": 80.5,
+          "length": 1.5,
+          "label": "DII flow (part 2)"
+        },
+        {
+          "n": 6,
+          "t": 82.35,
+          "length": 1.5,
+          "label": "DII flow (part 3)"
+        },
+        {
+          "n": 7,
+          "t": 84.2,
+          "length": 0.6,
+          "label": "FII vs DII contrast"
+        },
+        {
+          "n": 8,
+          "t": 85.15,
+          "length": 1.8,
+          "label": "Accumulation vs distribution"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "file": "05_sector_stage_board.svg",
+      "start": 90.95,
+      "duration": 23.65,
+      "animation_ends_at": 110.6,
+      "hold_seconds": 4.0,
+      "beats": [
+        {
+          "n": 1,
+          "t": 91.85,
+          "length": 1.3,
+          "label": "Step 1"
+        },
+        {
+          "n": 2,
+          "t": 93.5,
+          "length": 1.3,
+          "label": "Step 2"
+        },
+        {
+          "n": 3,
+          "t": 95.15,
+          "length": 1.3,
+          "label": "Step 3"
+        },
+        {
+          "n": 4,
+          "t": 96.8,
+          "length": 1.3,
+          "label": "Step 4"
+        },
+        {
+          "n": 5,
+          "t": 98.45,
+          "length": 1.3,
+          "label": "Step 5"
+        },
+        {
+          "n": 6,
+          "t": 100.1,
+          "length": 1.3,
+          "label": "Step 6"
+        },
+        {
+          "n": 7,
+          "t": 101.75,
+          "length": 1.3,
+          "label": "Step 7"
+        },
+        {
+          "n": 8,
+          "t": 103.4,
+          "length": 1.3,
+          "label": "Step 8"
+        },
+        {
+          "n": 9,
+          "t": 105.05,
+          "length": 1.3,
+          "label": "Step 9"
+        },
+        {
+          "n": 10,
+          "t": 106.7,
+          "length": 1.3,
+          "label": "Step 10"
+        },
+        {
+          "n": 11,
+          "t": 108.35,
+          "length": 1.3,
+          "label": "Step 11"
+        },
+        {
+          "n": 12,
+          "t": 110.0,
+          "length": 0.6,
+          "label": "Avoid list"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "file": "06_opportunity_radar.svg",
+      "start": 114.6,
+      "duration": 22.55,
+      "animation_ends_at": 133.15,
+      "hold_seconds": 4.0,
+      "beats": [
+        {
+          "n": 1,
+          "t": 115.5,
+          "length": 1.45,
+          "label": "TECHM"
+        },
+        {
+          "n": 2,
+          "t": 117.3,
+          "length": 1.45,
+          "label": "KOTAKBANK"
+        },
+        {
+          "n": 3,
+          "t": 119.1,
+          "length": 1.45,
+          "label": "JSWSTEEL"
+        },
+        {
+          "n": 4,
+          "t": 120.9,
+          "length": 1.45,
+          "label": "ETERNAL"
+        },
+        {
+          "n": 5,
+          "t": 122.7,
+          "length": 1.45,
+          "label": "ADANIPORTS"
+        },
+        {
+          "n": 6,
+          "t": 124.5,
+          "length": 1.45,
+          "label": "SUNPHARMA"
+        },
+        {
+          "n": 7,
+          "t": 126.3,
+          "length": 1.45,
+          "label": "APOLLOHOSP"
+        },
+        {
+          "n": 8,
+          "t": 128.1,
+          "length": 1.45,
+          "label": "TITAN"
+        },
+        {
+          "n": 9,
+          "t": 129.9,
+          "length": 1.45,
+          "label": "GRASIM"
+        },
+        {
+          "n": 10,
+          "t": 131.7,
+          "length": 1.45,
+          "label": "BAJAJ-AUTO"
+        }
+      ]
+    }
+  ]
+}

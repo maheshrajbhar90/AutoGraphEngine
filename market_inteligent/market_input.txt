@@ -1,0 +1,719 @@
+Final Market Bias
+
+NEUTRAL
+Recovery · 44% confidence
+
+Overall Market Health
+
+60/100
+
+47% bullish continuation
+21% sideways
+32% bearish continuation
+Recommended Action
+
+Selective: buy only A-rated stocks (0 currently qualify), avoid the broad index.
+
+Today's Market Story
+
+The market is currently in a recovery regime, with a neutral bias at 44.4% confidence. The NIFTY50 is trading above its 200-SMA, indicating a positive long-term trend, while liquidity remains strong with 84% of the universe showing accumulation signals. However, market breadth is weak at 34%, reflecting narrow participation, and momentum indicators are showing signs of accelerating bearishness. Despite these challenges, institutional investors are actively buying, with a net inflow of ₹5,737 Cr from FIIs.
+
+IT
+INFRA
+COMMODITIES
+FMCG
+ENERGY
+METAL
+AUTO
+64
+Trend
+
+NIFTY50 (25144.3) trading above its 200-SMA (23991.76)
+
+34
+Breadth
+
+34% of the scanned universe in Stage 1/2 (basing/advancing)
+
+40
+Momentum
+
+22% of universe in Stage 2 (advancing), 12% in Stage 1 (basing)
+
+62
+Liquidity
+
+84% of scanned universe shows accumulation signals (rising OBV + positive CMF)
+
+30
+Risk
+
+Market breadth weak at 34% — narrow participation US 10Y yield elevated at 5.15% — global risk-off pressure
+
+51
+Macro
+
+GDP growth is supportive (indicator score 88.0/100; weighted impact +5.7 points)
+
+Macro Intelligence
+1m ago
+Composite PMI
+Yield curve
+Inflation
+DXY
+USD/INR
+Sector Performance
+1m ago
+Sector
+Today
+7-day
+ENERGY
++0.0%
++1.4%
+FMCG
+-0.0%
++0.1%
+MEDIA
+-0.2%
++5.2%
+INFRA
+-0.3%
++0.3%
+PHARMA
+-0.5%
++2.1%
+PSU
+-0.5%
++7.5%
+SERV_SECTOR
+-0.7%
+-0.4%
+IT
+-0.7%
+-3.2%
+FIN_SERVICE
+-0.7%
++2.1%
+BANK
+-0.8%
++3.3%
+METAL
+-1.0%
+-0.2%
+COMMODITIES
+-1.1%
+-1.0%
+AUTO
+-1.1%
++0.4%
+REALTY
+-1.4%
++2.7%
+Market Breadth
+just now
+34
+% of universe in Stage 1/2
+
+Money Flow Balance
+just now
+84% accumulating
+0% distributing
+Institutions are accumulating across 84% of the scanned universe, led by REALTY, SERV_SECTOR, FIN_SERVICE. This is broad-based buying rather than a narrow, defensive rotation.
+
+Volatility
+15.5
+
+-6.7%
+India VIX
+
+Verified just now · yfinance (daily bar)
+
+Options Sentiment
+0.83
+
+neutral
+NIFTY PCR (OI) · spot 25144 · 17-Nov-2026 expiry
+
+Sector Leaders & Laggards
+1m ago
+Current Leaders
+
+MEDIA
+1M -2.7%
+3M +8.9%
+PHARMA
+1M -1.1%
+3M +3.6%
+BANK
+1M -0.6%
+3M +2.5%
+Emerging Leaders
+
+PSU
+1M +2.7%
+3M +2.0%
+REALTY
+1M +0.3%
+3M +0.6%
+Weakening
+
+FIN_SERVICE
+1M -0.2%
+3M +2.4%
+SERV_SECTOR
+1M -0.3%
+3M +1.3%
+IT
+1M -3.3%
+3M -1.0%
+INFRA
+1M -0.1%
+3M -2.1%
+Sector Rotation Timeline
+1m ago
+No significant two-sided sector rotation since the previous scan. Sector leadership is broadly stable.
+
+Sector Leadership Matrix
+1m ago
+-10
+-5
+0
+5
+10
+3M RS %
+-9
+-6
+-3
+0
+3
+1M RS %
+MEDIA
+PHARMA
+BANK
+FIN_SERVICE
+PSU
+SERV_SECTOR
+REALTY
+IT
+INFRA
+COMMODITIES
+FMCG
+ENERGY
+METAL
+AUTO
+Sector Stage Board
+1m ago
+REALTY
+
+NEUTRAL
+WATCH
+51%
+3M RS +0.6%, 1M RS +0.3% vs NIFTY50
+
+FIN_SERVICE
+
+NEUTRAL
+WATCH
+52%
+3M RS +2.4%, 1M RS -0.2% vs NIFTY50
+
+SERV_SECTOR
+
+NEUTRAL
+WATCH
+51%
+3M RS +1.3%, 1M RS -0.3% vs NIFTY50
+
+MEDIA
+
+NEUTRAL
+WATCH
+59%
+3M RS +8.9%, 1M RS -2.7% vs NIFTY50
+
+PSU
+
+NEUTRAL
+WATCH
+52%
+3M RS +2.0%, 1M RS +2.7% vs NIFTY50
+
+PHARMA
+
+NEUTRAL
+WATCH
+54%
+3M RS +3.6%, 1M RS -1.1% vs NIFTY50
+
+BANK
+
+NEUTRAL
+WATCH
+53%
+3M RS +2.5%, 1M RS -0.6% vs NIFTY50
+
+INFRA
+
+WEAKNESS
+AVOID
+52%
+3M RS -2.1%, 1M RS -0.1% vs NIFTY50
+
+IT
+
+WEAKNESS
+AVOID
+51%
+3M RS -1.0%, 1M RS -3.3% vs NIFTY50
+
+AUTO
+
+WEAKNESS
+AVOID
+58%
+3M RS -7.6%, 1M RS -0.6% vs NIFTY50
+
+METAL
+
+WEAKNESS
+AVOID
+57%
+3M RS -6.7%, 1M RS -5.5% vs NIFTY50
+
+COMMODITIES
+
+WEAKNESS
+AVOID
+56%
+3M RS -6.0%, 1M RS -3.2% vs NIFTY50
+
+FMCG
+
+WEAKNESS
+AVOID
+56%
+3M RS -6.0%, 1M RS -5.4% vs NIFTY50
+
+ENERGY
+
+WEAKNESS
+AVOID
+56%
+3M RS -6.3%, 1M RS -6.1% vs NIFTY50
+
+Market Regime:NIFTY50 (25144.3) trading above its 200-SMA (23991.76)
+Market Structure:22% of universe in Stage 2 (advancing), 12% in Stage 1 (basing)
+Sector Rotation:Current sector leadership is available; rotation history needs another persisted snapshot
+Money Flow:84% of scanned universe shows accumulation signals (rising OBV + positive CMF)
+Institutional Positioning:FII net buying ₹5,737 Cr
+Risk Warning:Market breadth weak at 34% — narrow participation
+Narrow participation (34% breadth)
+Institutional Heatmap
+just now
+REALTY
+
+82
+
+SERV_SECTOR
+
+71
+
+FIN_SERVICE
+
+70
+
+CAPITAL_GOODS
+
+70
+
+TELCOM
+
+70
+
+CONSR_DURBL
+
+70
+
+HEALTHCARE
+
+67
+
+CHEMICALS
+
+63
+
+METAL
+
+62
+
+AUTO
+
+61
+
+INFRA
+
+60
+
+IT
+
+59
+
+PHARMA
+
+56
+
+FMCG
+
+48
+
+OIL_AND_GAS
+
+44
+
+ENERGY
+
+42
+
+AI Copilot
+Ask about what changed, where money is moving, or what to watch today.
+
+What changed?
+Where is institutional money moving?
+What should I watch today?
+What's the biggest risk right now?
+Ask the copilot…
+
+Risk Monitor
+just now
+30
+MODERATE
+
+Overheated sectors
+
+0
+
+Money flow
+
+ACCUMULATION
+
+US 10Y
+
+5.15%
+
+DXY
+
+103.4
+
+US 10Y yield elevated at 5.15% — global risk-off pressure
+Offsetting positives
+
+FII net buying ₹5,737 Cr
+Event Calendar
+RBI Monetary Policy Committee (MPC)
+Bi-monthly
+US FOMC Meeting
+8 scheduled meetings/year
+Union Budget
+Annual (February)
+Quarterly Earnings Season
+Quarterly (mid Jan / Apr / Jul / Oct)
+F&O Monthly Expiry
+Last Tuesday of month
+Event categories with verified dates where available. Dates are sourced from official calendars or calculated using defined recurrence rules. Unknown future dates are not fabricated.
+
+Impacted Sectors
+AUTO
+METAL
+ENERGY
+FII / DII Flows
+dii buy
+
+₹11746 Cr
+
+dii sell
+
+₹14000 Cr
+
+dii net
+
+₹-2254 Cr
+
+fii buy
+
+₹18340 Cr
+
+fii sell
+
+₹12603 Cr
+
+fii net
+
+₹5737 Cr
+
+As of 13-Nov-2026 · NSE provisional, free unofficial feed
+
+Block Deals
+MEESHO
+- 76,400,000
+Institutional Checklist
+just now
+Long Trend
+
+NIFTY50 above its 200-SMA
+
+Bullish
+Short Trend
+
+Structural acceleration score -20
+
+Bearish
+Breadth
+
+34% of universe in Stage 1/2
+
+Bearish
+Volume
+
+Money flow: Accumulation
+
+Bullish
+FII
+
+₹5,737 Cr net
+
+Bullish
+DII
+
+₹-2,254 Cr net
+
+Bearish
+Volatility
+
+VIX regime: Normal
+
+Neutral
+Momentum
+
+Structural read: Accelerating Bearish
+
+Bearish
+Conclusion
+
+Recovery
+
+Bullish
+AI Summary
+just now
+What happened?
+
+The market is showing a neutral bias amidst mixed signals.
+
+Why did it happen?
+
+This is primarily due to weak market breadth and elevated US 10Y yields creating global risk-off pressure.
+
+Where is institutional money moving?
+
+Institutional money is moving into accumulation signals across the market.
+
+Long, short, or cash?
+
+Traders should favor CASH given the current market conditions.
+
+What invalidates this view?
+
+A shift in market breadth above 50% would invalidate this view.
+
+Action Plan
+just now
+Index Trading
+
+Range-bound — trade the edges, avoid breakout chasing.
+
+Swing Trading
+
+Selective: buy only A-rated stocks (0 currently qualify), avoid the broad index.
+
+Positional Investing
+
+Continue SIP; hold off on lump-sum deployment.
+
+Intraday
+
+No directional edge — trade only high-conviction setups.
+
+Avoid
+
+IT
+INFRA
+COMMODITIES
+Decision Tree
+just now
+Can I Buy?
+
+No
+
+Can I Invest?
+
+Selective
+
+Can I Swing Trade?
+
+Yes
+
+Can I Short?
+
+Only weak sectors
+
+Should I Hold Cash?
+
+30%
+
+Market Quality
+
+Weak
+
+Market Playbook
+just now
+Best Strategy Today
+
+Mean Reversion
+
+No sector showing clear accumulation yet
+
+Avoid
+
+Momentum Swing
+
+Momentum lacks broad confirmation
+
+Holding Period
+
+3-10 days
+
+Risk
+
+Moderate
+
+Position Size
+
+50%
+
+Opportunity Radar
+just now
+KOTAKBANK
+Grade B+
+medium risk
+75/100
+Entry ₹489 · Stop ₹473
+
+OBV accumulation
+Positive CMF
+Stage 2 breakout
+Relative Strength improving
+Suitable for: Swing
+
+TECHM
+Grade B+
+medium risk
+75/100
+Entry ₹1764 · Stop ₹1670
+
+OBV accumulation
+Positive CMF
+Stage 2 breakout
+Suitable for: Swing
+
+ETERNAL
+Grade B+
+medium risk
+72/100
+Entry ₹364 · Stop ₹349
+
+OBV accumulation
+Positive CMF
+Stage 2 breakout
+Relative Strength improving
+Suitable for: Swing
+
+ICICIBANK
+Grade B+
+medium risk
+69/100
+Entry ₹1584 · Stop ₹1535
+
+OBV accumulation
+Positive CMF
+Stage 2 breakout
+Relative Strength improving
+Suitable for: Swing
+
+ADANIPORTS
+Grade B+
+medium risk
+67/100
+Entry ₹1903 · Stop ₹1827
+
+OBV accumulation
+Positive CMF
+Stage 2 breakout
+Relative Strength improving
+Suitable for: Swing
+
+DRREDDY
+Grade B+
+medium risk
+65/100
+Entry ₹1380 · Stop ₹1340
+
+OBV accumulation
+Positive CMF
+Stage 2 breakout
+Relative Strength improving
+Suitable for: Swing
+
+APOLLOHOSP
+Grade B
+medium risk
+63/100
+Entry ₹8526 · Stop ₹8224
+
+OBV accumulation
+Positive CMF
+Stage 2 breakout
+Suitable for: Swing
+
+JSWSTEEL
+Grade B
+medium risk
+61/100
+Entry ₹1348 · Stop ₹1303
+
+OBV accumulation
+Positive CMF
+Stage 2 breakout
+Suitable for: Swing
+
+SUNPHARMA
+Grade B
+medium risk
+61/100
+Entry ₹1880 · Stop ₹1814
+
+OBV accumulation
+Stage 2 breakout
+Relative Strength improving
+Suitable for: Swing
+
+TITAN
+Grade B
+high risk
+58/100
+Entry ₹4845 · Stop ₹4667
+
+OBV accumulation
+Positive CMF
+Stage 2 breakout
+Suitable for: Swing
+
+Alerts

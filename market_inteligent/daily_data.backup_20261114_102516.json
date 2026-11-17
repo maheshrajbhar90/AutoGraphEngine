@@ -1,0 +1,386 @@
+{
+  "date": "12 NOV 2026",
+  "brand": "MARKET INTELLIGENCE",
+  "card1": {
+    "index": "NIFTY 50",
+    "bias": "LONG",
+    "regime": "RECOVERY",
+    "confidence": 46,
+    "score": 61,
+    "bullish": 48,
+    "sideways": 21,
+    "bearish": 31,
+    "hook": "The market maintains a long bias with a confidence score of 46.1%, supported by the NIFTY50 trading above its 200-SMA at 25,299.35. However, market breadth is weak, with only 35% of the universe in advancing or basing stages, indicating narrow participation. Despite this, liquidity remains strong, with 86% of the scanned universe showing accumulation signals and FII net buying at ₹7,831 Cr. The overall macro environment is supportive, bolstered by GDP growth, although the elevated US 10Y yield at 5.10% introduces global risk-off pressure."
+  },
+  "card2": {
+    "scores": [
+      {
+        "name": "TREND",
+        "score": 66,
+        "color": "green",
+        "desc": "NIFTY50 (25299.35) trading above its 200-SMA (23992.2)"
+      },
+      {
+        "name": "BREADTH",
+        "score": 35,
+        "color": "red",
+        "desc": "35% of the scanned universe in Stage 1/2 (basing/advancing)"
+      },
+      {
+        "name": "MOMENTUM",
+        "score": 42,
+        "color": "amber",
+        "desc": "24% of universe in Stage 2 (advancing), 10% in Stage 1 (basing)"
+      },
+      {
+        "name": "LIQUIDITY",
+        "score": 66,
+        "color": "green",
+        "desc": "86% of scanned universe shows accumulation signals (rising OBV + positive CMF)"
+      },
+      {
+        "name": "RISK",
+        "score": 30,
+        "color": "red",
+        "desc": "Market breadth weak at 35% — narrow participation US 10Y yield elevated at 5.10% — global risk-off pressure"
+      },
+      {
+        "name": "MACRO",
+        "score": 51,
+        "color": "red",
+        "desc": "GDP growth is supportive (indicator score 88.0/100; weighted impact +5.7 points)"
+      }
+    ]
+  },
+  "card3": {
+    "title": "SECTOR PERFORMANCE · TODAY & 7 DAYS",
+    "sectors": [
+      [
+        "REALTY",
+        4.2,
+        4.5
+      ],
+      [
+        "AUTO",
+        1.5,
+        -1.0
+      ],
+      [
+        "FIN_SERVICE",
+        2.8,
+        1.4
+      ],
+      [
+        "COMMODITIES",
+        0.0,
+        -0.5
+      ],
+      [
+        "FMCG",
+        0.1,
+        -0.7
+      ],
+      [
+        "INFRA",
+        0.7,
+        -0.4
+      ],
+      [
+        "BANK",
+        4.1,
+        1.2
+      ],
+      [
+        "METAL",
+        0.7,
+        -0.1
+      ],
+      [
+        "SERV_SECTOR",
+        0.3,
+        0.1
+      ],
+      [
+        "ENERGY",
+        1.4,
+        -0.4
+      ],
+      [
+        "PSU",
+        8.1,
+        1.5
+      ],
+      [
+        "MEDIA",
+        5.4,
+        2.5
+      ],
+      [
+        "PHARMA",
+        2.6,
+        -0.3
+      ],
+      [
+        "IT",
+        -2.5,
+        -0.4
+      ]
+    ]
+  },
+  "card4": {
+    "fii": {
+      "net": 7831,
+      "buy": 20273,
+      "sell": 12443
+    },
+    "dii": {
+      "net": -6331,
+      "buy": 15855,
+      "sell": 22186
+    },
+    "accumulation": 86,
+    "distribution": 0,
+    "as_of": "12-Nov-2026"
+  },
+  "card5": {
+    "sectors": [
+      {
+        "name": "IT",
+        "m3": -2.2,
+        "m1": 0.3,
+        "class": "NEUTRAL",
+        "avoid": false
+      },
+      {
+        "name": "PHARMA",
+        "m3": 3.7,
+        "m1": -2.8,
+        "class": "NEUTRAL",
+        "avoid": false
+      },
+      {
+        "name": "REALTY",
+        "m3": 1.6,
+        "m1": 1.9,
+        "class": "NEUTRAL",
+        "avoid": false
+      },
+      {
+        "name": "INFRA",
+        "m3": -1.9,
+        "m1": -1.1,
+        "class": "WEAKNESS",
+        "avoid": true
+      },
+      {
+        "name": "FIN_SERVICE",
+        "m3": 2.7,
+        "m1": -0.3,
+        "class": "NEUTRAL",
+        "avoid": false
+      },
+      {
+        "name": "AUTO",
+        "m3": -7.3,
+        "m1": -0.5,
+        "class": "WEAKNESS",
+        "avoid": true
+      },
+      {
+        "name": "BANK",
+        "m3": 3.6,
+        "m1": -1.0,
+        "class": "NEUTRAL",
+        "avoid": false
+      },
+      {
+        "name": "ENERGY",
+        "m3": -6.6,
+        "m1": -7.8,
+        "class": "WEAKNESS",
+        "avoid": true
+      },
+      {
+        "name": "METAL",
+        "m3": -5.7,
+        "m1": -5.5,
+        "class": "WEAKNESS",
+        "avoid": true
+      },
+      {
+        "name": "FMCG",
+        "m3": -7.1,
+        "m1": -6.1,
+        "class": "WEAKNESS",
+        "avoid": true
+      },
+      {
+        "name": "MEDIA",
+        "m3": 9.7,
+        "m1": -4.2,
+        "class": "NEUTRAL",
+        "avoid": false
+      },
+      {
+        "name": "PSU",
+        "m3": 4.2,
+        "m1": 2.4,
+        "class": "NEUTRAL",
+        "avoid": false
+      },
+      {
+        "name": "SERV_SECTOR",
+        "m3": 1.3,
+        "m1": 0.2,
+        "class": "NEUTRAL",
+        "avoid": false
+      },
+      {
+        "name": "COMMODITIES",
+        "m3": -5.5,
+        "m1": -3.4,
+        "class": "WEAKNESS",
+        "avoid": true
+      }
+    ]
+  },
+  "card6": {
+    "stocks": [
+      {
+        "name": "DRREDDY",
+        "score": 72.0,
+        "grade": "B",
+        "risk_cat": "medium risk",
+        "entry": 1384.0,
+        "stop": 1345.0,
+        "risk": 2.8
+      },
+      {
+        "name": "ADANIPORTS",
+        "score": 71.0,
+        "grade": "B+",
+        "risk_cat": "medium risk",
+        "entry": 1924.0,
+        "stop": 1848.0,
+        "risk": 4.0
+      },
+      {
+        "name": "JSWSTEEL",
+        "score": 64.0,
+        "grade": "B",
+        "risk_cat": "medium risk",
+        "entry": 1361.0,
+        "stop": 1316.0,
+        "risk": 3.3
+      },
+      {
+        "name": "ETERNAL",
+        "score": 64.0,
+        "grade": "B",
+        "risk_cat": "medium risk",
+        "entry": 364.0,
+        "stop": 349.0,
+        "risk": 4.1
+      },
+      {
+        "name": "APOLLOHOSP",
+        "score": 61.0,
+        "grade": "B",
+        "risk_cat": "medium risk",
+        "entry": 8507.0,
+        "stop": 8200.0,
+        "risk": 3.6
+      },
+      {
+        "name": "TITAN",
+        "score": 61.0,
+        "grade": "B",
+        "risk_cat": "medium risk",
+        "entry": 5019.0,
+        "stop": 4847.0,
+        "risk": 3.4
+      },
+      {
+        "name": "BAJAJ-AUTO",
+        "score": 58.0,
+        "grade": "B",
+        "risk_cat": "high risk",
+        "entry": 11111.0,
+        "stop": 10740.0,
+        "risk": 3.3
+      }
+    ]
+  },
+  "card7": {
+    "as_of": "just now",
+    "groups": [
+      {
+        "label": "CURRENT LEADERS",
+        "tone": "green",
+        "sectors": [
+          {
+            "name": "PHARMA",
+            "m1": -2.8,
+            "m3": 3.7
+          },
+          {
+            "name": "PSU",
+            "m1": 2.4,
+            "m3": 4.2
+          },
+          {
+            "name": "BANK",
+            "m1": -1.0,
+            "m3": 3.6
+          }
+        ]
+      },
+      {
+        "label": "EMERGING LEADERS",
+        "tone": "blue",
+        "sectors": [
+          {
+            "name": "IT",
+            "m1": 0.3,
+            "m3": -2.2
+          }
+        ]
+      },
+      {
+        "label": "WEAKENING",
+        "tone": "red",
+        "sectors": [
+          {
+            "name": "AUTO",
+            "m1": -0.5,
+            "m3": -7.3
+          },
+          {
+            "name": "ENERGY",
+            "m1": -7.8,
+            "m3": -6.6
+          },
+          {
+            "name": "METAL",
+            "m1": -5.5,
+            "m3": -5.7
+          }
+        ]
+      }
+    ]
+  },
+  "card8": {
+    "vix": {
+      "name": "INDIA VIX",
+      "value": 16.6,
+      "change_pct": -5.3,
+      "source": "Verified just now · yfinance (daily bar)"
+    },
+    "pcr": {
+      "name": "PUT-CALL RATIO",
+      "value": 0.85,
+      "label": "neutral",
+      "basis": "NIFTY PCR (OI) · spot 25299 · 17-Nov-2026 expiry"
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "_help": "Copy to input/timing.json and keep only what you change. duration = total seconds of a card (overrides hold). hold = seconds the finished card stays. intro_pause = extra wait before the first animation. gap = pause between steps. pauses = {\"3\": 6} adds 6 s after step 3 (see _beats).",
+  "default": {
+    "gap": 0.35,
+    "hold": 4.0,
+    "intro_pause": 0.0
+  },
+  "scenes": {
+    "1": {
+      "duration": null,
+      "hold": 4.0,
+      "intro_pause": 0.0,
+      "gap": 0.35,
+      "pauses": {},
+      "_beats_natural_end_s": 16.05,
+      "_beats": [
+        "1: Market bias headline  (0.6s)",
+        "2: Bias word typed  (1.25s)",
+        "3: Step 3  (1.2s)",
+        "4: Step 4  (0.6s)",
+        "5: Step 5  (0.6s)",
+        "6: Health score counts up  (0.6s)",
+        "7: Step 7  (2.55s)",
+        "8: Step 8  (0.9s)",
+        "9: Step 9  (0.9s)",
+        "10: Step 10  (0.9s)",
+        "11: Dominant scenario highlighted  (0.6s)",
+        "12: Hook line  (0.6s)"
+      ]
+    },
+    "2": {
+      "duration": null,
+      "hold": 4.0,
+      "intro_pause": 0.0,
+      "gap": 0.35,
+      "pauses": {},
+      "_beats_natural_end_s": 12.6,
+      "_beats": [
+        "1: TREND gauge  (1.5s)",
+        "2: BREADTH gauge  (1.5s)",
+        "3: MOMENTUM gauge  (1.5s)",
+        "4: LIQUIDITY gauge  (1.5s)",
+        "5: RISK gauge  (1.5s)",
+        "6: MACRO gauge  (1.5s)",
+        "7: Health summary  (0.6s)"
+      ]
+    },
+    "3": {
+      "duration": null,
+      "hold": 4.0,
+      "intro_pause": 0.0,
+      "gap": 0.35,
+      "pauses": {},
+      "_beats_natural_end_s": 43.1,
+      "_beats": [
+        "1: TODAY chart  (0.6s)",
+        "2: Step 2  (0.6s)",
+        "3: Step 3  (1.0s)",
+        "4: Step 4  (1.0s)",
+        "5: Step 5  (1.0s)",
+        "6: Step 6  (1.0s)",
+        "7: Step 7  (1.0s)",
+        "8: Step 8  (1.0s)",
+        "9: Step 9  (1.0s)",
+        "10: Step 10  (1.0s)",
+        "11: Step 11  (1.0s)",
+        "12: Step 12  (1.0s)",
+        "13: Step 13  (1.0s)",
+        "14: Step 14  (1.0s)",
+        "15: Step 15  (1.0s)",
+        "16: Step 16  (1.0s)",
+        "17: LAST 7 DAYS chart  (0.6s)",
+        "18: Step 18  (0.6s)",
+        "19: Step 19  (1.0s)",
+        "20: Step 20  (1.0s)",
+        "21: Step 21  (1.0s)",
+        "22: Step 22  (1.0s)",
+        "23: Step 23  (1.0s)",
+        "24: Step 24  (1.0s)",
+        "25: Step 25  (1.0s)",
+        "26: Step 26  (1.0s)",
+        "27: Step 27  (1.0s)",
+        "28: Step 28  (1.0s)",
+        "29: Step 29  (1.0s)",
+        "30: Step 30  (1.0s)",
+        "31: Step 31  (1.0s)",
+        "32: Step 32  (1.0s)",
+        "33: Divergence takeaway  (0.6s)"
+      ]
+    },
+    "4": {
+      "duration": null,
+      "hold": 4.0,
+      "intro_pause": 0.0,
+      "gap": 0.35,
+      "pauses": {},
+      "_beats_natural_end_s": 17.15,
+      "_beats": [
+        "1: FII flow  (2.7s)",
+        "2: FII flow (part 2)  (1.5s)",
+        "3: FII flow (part 3)  (1.5s)",
+        "4: DII flow  (2.7s)",
+        "5: DII flow (part 2)  (1.5s)",
+        "6: DII flow (part 3)  (1.5s)",
+        "7: FII vs DII contrast  (0.6s)",
+        "8: Accumulation vs distribution  (1.8s)"
+      ]
+    },
+    "5": {
+      "duration": null,
+      "hold": 4.0,
+      "intro_pause": 0.0,
+      "gap": 0.35,
+      "pauses": {},
+      "_beats_natural_end_s": 19.65,
+      "_beats": [
+        "1: Step 1  (1.3s)",
+        "2: Step 2  (1.3s)",
+        "3: Step 3  (1.3s)",
+        "4: Step 4  (1.3s)",
+        "5: Step 5  (1.3s)",
+        "6: Step 6  (1.3s)",
+        "7: Step 7  (1.3s)",
+        "8: Step 8  (1.3s)",
+        "9: Step 9  (1.3s)",
+        "10: Step 10  (1.3s)",
+        "11: Step 11  (1.3s)",
+        "12: Avoid list  (0.6s)"
+      ]
+    },
+    "6": {
+      "duration": null,
+      "hold": 4.0,
+      "intro_pause": 0.0,
+      "gap": 0.35,
+      "pauses": {},
+      "_beats_natural_end_s": 22.15,
+      "_beats": [
+        "1: DIVISLAB  (1.45s)",
+        "2: DLF  (1.45s)",
+        "3: ICICIBANK  (1.45s)",
+        "4: KOTAKBANK  (1.45s)",
+        "5: ETERNAL  (1.45s)",
+        "6: INDHOTEL  (1.45s)",
+        "7: PNB  (1.45s)",
+        "8: TECHM  (1.45s)",
+        "9: ADANIPORTS  (1.45s)",
+        "10: UNIONBANK  (1.45s)",
+        "11: LODHA  (1.45s)",
+        "12: DRREDDY  (1.45s)"
+      ]
+    },
+    "7": {
+      "duration": null,
+      "hold": 4.0,
+      "intro_pause": 0.0,
+      "gap": 0.35,
+      "pauses": {},
+      "_beats_natural_end_s": 18.05,
+      "_beats": [
+        "1: CURRENT LEADERS  (0.6s)",
+        "2: PSU  (1.35s)",
+        "3: BANK  (1.35s)",
+        "4: FIN SERVICE  (1.35s)",
+        "5: EMERGING LEADERS  (0.6s)",
+        "6: REALTY  (1.35s)",
+        "7: WEAKENING  (0.6s)",
+        "8: PHARMA  (1.35s)",
+        "9: IT  (1.35s)",
+        "10: FMCG  (1.35s)",
+        "11: METAL  (1.35s)",
+        "12: Sector takeaway  (0.7s)"
+      ]
+    },
+    "8": {
+      "duration": null,
+      "hold": 4.0,
+      "intro_pause": 0.0,
+      "gap": 0.35,
+      "pauses": {},
+      "_beats_natural_end_s": 16.3,
+      "_beats": [
+        "1: VOLATILITY  (0.6s)",
+        "2: VOLATILITY value  (2.2s)",
+        "3: VOLATILITY zones  (1.65s)",
+        "4: VOLATILITY reading  (0.6s)",
+        "5: Step 5  (0.6s)",
+        "6: OPTIONS SENTIMENT  (0.6s)",
+        "7: OPTIONS SENTIMENT value  (2.2s)",
+        "8: OPTIONS SENTIMENT zones  (1.65s)",
+        "9: OPTIONS SENTIMENT reading  (0.6s)",
+        "10: Step 10  (0.6s)",
+        "11: Volatility and sentiment summary  (0.6s)"
+      ]
+    }
+  }
+}
